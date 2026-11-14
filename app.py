@@ -595,8 +595,7 @@ fig_trends.update_xaxes(
 )
 
 fig_trends.update_yaxes(
-    title_text="Index (2021 = 100)",
-    rangemode="tozero"
+    title_text="Index (2021 = 100)"
 )
 
 fig_trends.update_layout(
