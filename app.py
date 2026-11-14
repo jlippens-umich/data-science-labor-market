@@ -381,130 +381,148 @@ st.plotly_chart(fig_scatter, use_container_width=True)
 # --------------------------------------------------
 # VISUALIZATION 4: BEESWARM
 # --------------------------------------------------
+swarm_data = occupation[
+    occupation["YEAR"] == 2025
+].copy()
 
-st.divider()
-st.header("4. Occupational wage distribution")
-
-st.markdown(
-    "**Beeswarm — 2025 state-level occupation median wages**  \n"
-    "Each dot represents an occupation in a state. Horizontal "
-    "position separates nearby observations to make the distribution "
-    "easier to see."
+# Keep observations with available annual median wages
+swarm_data = swarm_data.dropna(
+    subset=["A_MEDIAN", "JOB_FAMILY"]
 )
 
-# The uploaded occupation CSV contains 2025 observations.
-beeswarm_data = selected_occupation_data.dropna(
-    subset=["A_MEDIAN"]
-).copy()
+# Job family order
+family_order = [
+    "Data Science",
+    "AI/ML Engineering",
+    "Statistics",
+    "Business Analytics",
+    "Computer Science/Data Engineering"
+]
 
-if not beeswarm_data.empty:
+# Chart dimensions used for swarm positioning
+plot_width = 950
+plot_height = 550
+category_width = plot_width / len(family_order)
+marker_diameter = 12
+collision_radius = marker_diameter + 2
 
-    beeswarm_data = beeswarm_data[
-        beeswarm_data["A_MEDIAN"] > 0
+# Calculate horizontal positions that reduce point overlap
+swarm_data["SWARM_X"] = np.nan
+
+y_min = swarm_data["A_MEDIAN"].min()
+y_max = swarm_data["A_MEDIAN"].max()
+
+for family_index, family in enumerate(family_order):
+
+    family_rows = swarm_data[
+        swarm_data["JOB_FAMILY"] == family
     ].copy()
 
-    values = beeswarm_data["A_MEDIAN"].to_numpy()
-    y_span = max(values.max() - values.min(), 1)
-    min_vertical_gap = y_span * 0.025
-    lane_step = 0.12
+    family_rows = family_rows.sort_values("A_MEDIAN")
 
-    offsets = np.zeros(len(beeswarm_data))
-    assigned = []
+    placed_points = []
 
-    # Assign horizontal lanes to reduce overlap.
-    order = np.argsort(values)
+    for idx, row in family_rows.iterrows():
 
-    for idx in order:
-        candidate_lanes = [0]
+        y_pixel = (
+            (row["A_MEDIAN"] - y_min) /
+            (y_max - y_min) * plot_height
+        )
 
-        for lane in range(1, 15):
-            candidate_lanes.extend([lane, -lane])
+        candidates = [0]
 
-        for lane in candidate_lanes:
-            x_candidate = lane * lane_step
+        for distance in range(1, 9):
+            candidates.extend([
+                distance * 8,
+                -distance * 8
+            ])
 
+        chosen_offset = 0
+
+        for offset in candidates:
             collision = False
 
-            for previous_idx, previous_lane in assigned:
-                x_previous = previous_lane * lane_step
-
-                dx = x_candidate - x_previous
-                dy = (
-                    values[idx] - values[previous_idx]
-                ) / y_span
-
+            for existing_x, existing_y in placed_points:
                 distance = np.sqrt(
-                    dx ** 2 + (dy * 10) ** 2
+                    (offset - existing_x) ** 2 +
+                    (y_pixel - existing_y) ** 2
                 )
 
-                if distance < 0.13:
+                if distance < collision_radius:
                     collision = True
                     break
 
             if not collision:
-                offsets[idx] = x_candidate
-                assigned.append((idx, lane))
+                chosen_offset = offset
                 break
 
-    beeswarm_data["SWARM_X"] = offsets
+        placed_points.append((chosen_offset, y_pixel))
 
-    fig_beeswarm = go.Figure()
+        swarm_data.loc[idx, "SWARM_X"] = (
+            family_index + chosen_offset / category_width
+        )
 
-    fig_beeswarm.add_trace(
+# Create interactive beeswarm
+fig_swarm = go.Figure()
+
+for family in family_order:
+
+    family_rows = swarm_data[
+        swarm_data["JOB_FAMILY"] == family
+    ]
+
+    fig_swarm.add_trace(
         go.Scatter(
-            x=beeswarm_data["SWARM_X"],
-            y=beeswarm_data["A_MEDIAN"],
+            x=family_rows["SWARM_X"],
+            y=family_rows["A_MEDIAN"],
             mode="markers",
+            name=family,
             marker=dict(
-                size=9,
-                color=beeswarm_data["A_MEDIAN"],
-                colorscale="Viridis",
-                showscale=True,
-                colorbar=dict(title="Annual<br>Median Wage"),
-                opacity=0.8
+                size=10,
+                opacity=0.75
             ),
-            customdata=beeswarm_data[
+            customdata=family_rows[
                 ["AREA_TITLE", "OCC_TITLE", "OCC_CODE"]
-            ].to_numpy(),
+            ].values,
             hovertemplate=(
                 "<b>%{customdata[0]}</b><br>"
+                "Job Family: " + family + "<br>"
                 "Occupation: %{customdata[1]}<br>"
-                "SOC: %{customdata[2]}<br>"
+                "SOC Code: %{customdata[2]}<br>"
                 "Annual Median Wage: $%{y:,.0f}"
                 "<extra></extra>"
             )
         )
     )
 
-    fig_beeswarm.update_layout(
-        height=550,
-        xaxis=dict(
-            title="Individual state/occupation observations",
-            showticklabels=False,
-            zeroline=False,
-            showgrid=False
-        ),
-        yaxis_title="Annual Median Wage ($)",
-        margin=dict(l=20, r=20, t=25, b=30),
-        showlegend=False
-    )
+fig_swarm.update_layout(
+    title="Distribution of Occupational Median Wages by Job Family (2025)",
+    xaxis=dict(
+        tickmode="array",
+        tickvals=list(range(len(family_order))),
+        ticktext=family_order,
+        title="Job Family",
+        range=[-0.5, len(family_order) - 0.5]
+    ),
+    yaxis=dict(
+        title="Annual Median Wage ($)",
+        tickprefix="$",
+        separatethousands=True
+    ),
+    height=700,
+    width=1200,
+    template="plotly_white",
+    showlegend=False,
+    margin=dict(l=90, r=40, t=90, b=130)
+)
 
-    st.plotly_chart(
-        fig_beeswarm,
-        use_container_width=True
-    )
-
-else:
-    st.warning(
-        "No available occupation-level median wage observations "
-        "for this selection."
-    )
+st.plotly_chart(fig_swarm, use_container_width=True)
 
 st.caption(
-    "The beeswarm uses 2025 data regardless of the year selector. "
-    "Each dot is an occupation-state observation, not an individual "
-    "worker. Some occupations intentionally appear in more than "
-    "one analytical job family."
+    "Each dot represents a state-level occupation median wage "
+    "observation from 2025. Horizontal positioning reduces "
+    "overlap; it does not represent a numerical variable. "
+    "Some occupations appear in more than one analytical family."
 )
 
 # --------------------------------------------------
