@@ -301,58 +301,82 @@ st.markdown(
     "How do employment size, wages, and occupational concentration "
     "relate to one another?"
 )
+scatter_data = selected_state_data.copy()
 
-scatter_data = selected_state_data.dropna(
+# Keep complete employment and wage estimates
+scatter_data = scatter_data.dropna(
     subset=[
         "FAMILY_EMPLOYMENT",
-        "FAMILY_MEAN_ANNUAL_WAGE",
-        "FAMILY_LQ"
+        "FAMILY_MEAN_ANNUAL_WAGE"
     ]
-).copy()
+)
 
-scatter_data = scatter_data[
-    (scatter_data["FAMILY_EMPLOYMENT"] > 0) &
-    (scatter_data["FAMILY_MEAN_ANNUAL_WAGE"] > 0)
-]
-
+# Create scatterplot
 fig_scatter = px.scatter(
     scatter_data,
     x="FAMILY_EMPLOYMENT",
     y="FAMILY_MEAN_ANNUAL_WAGE",
     color="FAMILY_LQ",
     hover_name="AREA_TITLE",
-    color_continuous_scale="Viridis",
-    range_color=(0, 2),
     hover_data={
         "FAMILY_EMPLOYMENT": ":,.0f",
         "FAMILY_MEAN_ANNUAL_WAGE": ":$,.0f",
         "FAMILY_LQ": ":.2f",
-        "EMPLOYMENT_COVERAGE": ":.0%"
+        "EMPLOYMENT_COVERAGE": ":.0%",
+        "AREA_TITLE": False
     },
+    color_continuous_scale="Viridis",
     labels={
         "FAMILY_EMPLOYMENT": "Estimated Employment",
-        "FAMILY_MEAN_ANNUAL_WAGE": "Weighted Mean Annual Wage",
+        "FAMILY_MEAN_ANNUAL_WAGE": "Weighted Mean Annual Wage ($)",
         "FAMILY_LQ": "Location Quotient"
-    }
-)
-
-fig_scatter.update_xaxes(
-    type="log",
-    title="Estimated Employment (log scale)"
+    },
+    title=(
+        f"{selected_family}: Employment vs. Annual Wages "
+        f"({selected_year})"
+    )
 )
 
 fig_scatter.update_layout(
     height=600,
-    margin=dict(l=20, r=20, t=25, b=20)
+    template="plotly_white",
+    xaxis_type="log",
+    xaxis_title="Estimated Employment (log scale)",
+    yaxis_title="Employment-Weighted Mean Annual Wage ($)",
+    coloraxis_colorbar_title="Location Quotient"
+)
+
+fig_scatter.update_xaxes(
+    tickmode="array",
+    tickfont=dict(size=14),
+    ticks="outside",
+    tickwidth=2,
+    ticklen=8,
+    tickvals=[200, 500, 1000, 2000, 5000, 10000, 20000, 40000],
+    ticktext=[
+        "200", "500", "1,000", "2,000",
+        "5,000", "10,000", "20,000", "40,000"
+    ]
+)
+
+fig_scatter.update_yaxes(
+    tickprefix="$",
+    separatethousands=True,
+    tickfont=dict(size=14),
+    ticks="outside",
+    tickwidth=2,
+    ticklen=8
+)
+
+fig_scatter.update_traces(
+    marker=dict(
+        size=12,
+        opacity=0.85
+    )
 )
 
 st.plotly_chart(fig_scatter, use_container_width=True)
 
-st.caption(
-    "The weighted family wage is an analytical estimate based on "
-    "available occupation-level employment and wage data. "
-    "It is not an official BLS occupational-family wage."
-)
 
 # --------------------------------------------------
 # VISUALIZATION 4: BEESWARM
