@@ -245,7 +245,7 @@ st.divider()
 st.header("2. State rankings")
 
 st.markdown(
-    "Which states have the highest occupational concentration ({selected_year})?"
+    f"Which states have the highest occupational concentration ({selected_year})?"
 )
 
 bar_data = selected_state_data[
