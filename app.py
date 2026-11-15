@@ -382,7 +382,7 @@ st.plotly_chart(fig_scatter, use_container_width=True)
 # VISUALIZATION 4: BEESWARM
 # --------------------------------------------------
 swarm_data = occupation[
-    occupation["YEAR"] == 2025
+    occupation["YEAR"] == selected_year
 ].copy()
 
 # Keep observations with available annual median wages
