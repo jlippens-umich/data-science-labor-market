@@ -500,7 +500,7 @@ for family in family_order:
     )
 
 fig_swarm.update_layout(
-    title="Distribution of Occupational Median Wages by Job Family (2025)",
+    title="Distribution of Occupational Median Wages by Job Family ({selected_year)",
     xaxis=dict(
         tickmode="array",
         tickvals=list(range(len(family_order))),
