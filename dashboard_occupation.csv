@@ -1,4 +1,2148 @@
 YEAR,AREA,AREA_TITLE,JOB_FAMILY,OCC_CODE,OCC_TITLE,A_MEDIAN,A_MEAN,TOT_EMP
+2021,01,Alabama,Business Analytics,13-1111,Management Analysts,87050,97040,4700
+2021,01,Alabama,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,51440,61800,5720
+2021,01,Alabama,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98320,103080,4360
+2021,01,Alabama,AI/ML Engineering,15-1221,Computer and Information Research Scientists,119770,118390,210
+2021,01,Alabama,Computer Science/Data Engineering,15-1242,Database Administrators,78790,82730,2210
+2021,01,Alabama,Computer Science/Data Engineering,15-1243,Database Architects,123980,123770,360
+2021,01,Alabama,AI/ML Engineering,15-1252,Software Developers,99510,102990,14240
+2021,01,Alabama,Computer Science/Data Engineering,15-1252,Software Developers,99510,102990,14240
+2021,01,Alabama,Statistics,15-2031,Operations Research Analysts,101090,105110,550
+2021,01,Alabama,Statistics,15-2041,Statisticians,61710,68500,180
+2021,01,Alabama,Data Science,15-2051,Data Scientists,80290,84470,520
+2021,02,Alaska,Business Analytics,13-1111,Management Analysts,93970,97800,400
+2021,02,Alaska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62620,68880,270
+2021,02,Alaska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98650,95120,270
+2021,02,Alaska,Computer Science/Data Engineering,15-1242,Database Administrators,98650,92280,110
+2021,02,Alaska,Computer Science/Data Engineering,15-1243,Database Architects,101690,99330,40
+2021,02,Alaska,AI/ML Engineering,15-1252,Software Developers,103010,113800,270
+2021,02,Alaska,Computer Science/Data Engineering,15-1252,Software Developers,103010,113800,270
+2021,02,Alaska,Statistics,15-2031,Operations Research Analysts,77640,83240,110
+2021,02,Alaska,Statistics,15-2041,Statisticians,98200,96010,70
+2021,02,Alaska,Data Science,15-2051,Data Scientists,99230,105150,120
+2021,04,Arizona,Business Analytics,13-1111,Management Analysts,79400,90690,14500
+2021,04,Arizona,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60360,66790,15060
+2021,04,Arizona,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99340,98470,11270
+2021,04,Arizona,AI/ML Engineering,15-1221,Computer and Information Research Scientists,141440,148090,250
+2021,04,Arizona,Computer Science/Data Engineering,15-1242,Database Administrators,98320,93990,1760
+2021,04,Arizona,Computer Science/Data Engineering,15-1243,Database Architects,103010,108660,1030
+2021,04,Arizona,AI/ML Engineering,15-1252,Software Developers,102980,114630,35490
+2021,04,Arizona,Computer Science/Data Engineering,15-1252,Software Developers,102980,114630,35490
+2021,04,Arizona,Statistics,15-2031,Operations Research Analysts,77160,78330,1450
+2021,04,Arizona,Statistics,15-2041,Statisticians,99370,97450,360
+2021,04,Arizona,Data Science,15-2051,Data Scientists,99330,96990,2420
+2021,05,Arkansas,Business Analytics,13-1111,Management Analysts,56690,66680,5520
+2021,05,Arkansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62220,71920,4300
+2021,05,Arkansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,62640,72010,2600
+2021,05,Arkansas,Computer Science/Data Engineering,15-1242,Database Administrators,77040,76760,390
+2021,05,Arkansas,Computer Science/Data Engineering,15-1243,Database Architects,98530,95350,250
+2021,05,Arkansas,AI/ML Engineering,15-1252,Software Developers,92580,89420,4390
+2021,05,Arkansas,Computer Science/Data Engineering,15-1252,Software Developers,92580,89420,4390
+2021,05,Arkansas,Statistics,15-2031,Operations Research Analysts,61800,66420,270
+2021,05,Arkansas,Statistics,15-2041,Statisticians,85220,94030,490
+2021,06,California,Business Analytics,13-1111,Management Analysts,82070,101500,106680
+2021,06,California,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77050,87150,106110
+2021,06,California,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,117910,119460,57910
+2021,06,California,Computer Science/Data Engineering,15-1242,Database Administrators,101970,106250,8200
+2021,06,California,Computer Science/Data Engineering,15-1243,Database Architects,124950,130310,7730
+2021,06,California,AI/ML Engineering,15-1252,Software Developers,140510,146770,228240
+2021,06,California,Computer Science/Data Engineering,15-1252,Software Developers,140510,146770,228240
+2021,06,California,Statistics,15-2031,Operations Research Analysts,84860,99220,7250
+2021,06,California,Statistics,15-2041,Statisticians,102410,114360,3120
+2021,06,California,Data Science,15-2051,Data Scientists,129550,133110,17750
+2021,08,Colorado,Business Analytics,13-1111,Management Analysts,90600,98670,10680
+2021,08,Colorado,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,76450,80980,23210
+2021,08,Colorado,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101370,110080,10730
+2021,08,Colorado,AI/ML Engineering,15-1221,Computer and Information Research Scientists,102330,110740,280
+2021,08,Colorado,Computer Science/Data Engineering,15-1242,Database Administrators,99340,98780,1820
+2021,08,Colorado,Computer Science/Data Engineering,15-1243,Database Architects,127690,133860,1750
+2021,08,Colorado,AI/ML Engineering,15-1252,Software Developers,121130,120140,38860
+2021,08,Colorado,Computer Science/Data Engineering,15-1252,Software Developers,121130,120140,38860
+2021,08,Colorado,Statistics,15-2031,Operations Research Analysts,96950,100040,910
+2021,08,Colorado,Statistics,15-2041,Statisticians,80150,92350,1220
+2021,08,Colorado,Data Science,15-2051,Data Scientists,102410,105790,3070
+2021,09,Connecticut,Business Analytics,13-1111,Management Analysts,99340,108820,8170
+2021,09,Connecticut,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63970,74840,7680
+2021,09,Connecticut,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101000,103910,6320
+2021,09,Connecticut,AI/ML Engineering,15-1221,Computer and Information Research Scientists,107730,119200,80
+2021,09,Connecticut,Computer Science/Data Engineering,15-1242,Database Administrators,102410,105420,1030
+2021,09,Connecticut,Computer Science/Data Engineering,15-1243,Database Architects,132460,129710,640
+2021,09,Connecticut,AI/ML Engineering,15-1252,Software Developers,104160,113530,14480
+2021,09,Connecticut,Computer Science/Data Engineering,15-1252,Software Developers,104160,113530,14480
+2021,09,Connecticut,Statistics,15-2031,Operations Research Analysts,79200,89820,910
+2021,09,Connecticut,Statistics,15-2041,Statisticians,101020,123490,440
+2021,09,Connecticut,Data Science,15-2051,Data Scientists,98650,102100,760
+2021,10,Delaware,Business Analytics,13-1111,Management Analysts,79650,89350,3510
+2021,10,Delaware,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,80920,92840,2390
+2021,10,Delaware,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99340,99410,2120
+2021,10,Delaware,Computer Science/Data Engineering,15-1242,Database Administrators,82480,94630,730
+2021,10,Delaware,Computer Science/Data Engineering,15-1243,Database Architects,131640,130390,110
+2021,10,Delaware,AI/ML Engineering,15-1252,Software Developers,108440,115330,5550
+2021,10,Delaware,Computer Science/Data Engineering,15-1252,Software Developers,108440,115330,5550
+2021,10,Delaware,Statistics,15-2031,Operations Research Analysts,90480,94700,710
+2021,10,Delaware,Statistics,15-2041,Statisticians,98650,105900,60
+2021,10,Delaware,Data Science,15-2051,Data Scientists,127330,127810,370
+2021,11,District of Columbia,Business Analytics,13-1111,Management Analysts,107140,110670,19480
+2021,11,District of Columbia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,78870,87390,6090
+2021,11,District of Columbia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,120300,118050,2230
+2021,11,District of Columbia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,131460,123260,390
+2021,11,District of Columbia,Computer Science/Data Engineering,15-1242,Database Administrators,101000,104010,570
+2021,11,District of Columbia,Computer Science/Data Engineering,15-1243,Database Architects,129790,128190,770
+2021,11,District of Columbia,AI/ML Engineering,15-1252,Software Developers,129010,124770,9460
+2021,11,District of Columbia,Computer Science/Data Engineering,15-1252,Software Developers,129010,124770,9460
+2021,11,District of Columbia,Statistics,15-2031,Operations Research Analysts,79050,90650,2190
+2021,11,District of Columbia,Statistics,15-2041,Statisticians,103750,108180,1350
+2021,11,District of Columbia,Data Science,15-2051,Data Scientists,102700,117470,1380
+2021,12,Florida,Business Analytics,13-1111,Management Analysts,77500,86590,58740
+2021,12,Florida,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60950,68620,41210
+2021,12,Florida,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,80730,92720,24260
+2021,12,Florida,AI/ML Engineering,15-1221,Computer and Information Research Scientists,126950,132170,1630
+2021,12,Florida,Computer Science/Data Engineering,15-1242,Database Administrators,94980,93990,4610
+2021,12,Florida,Computer Science/Data Engineering,15-1243,Database Architects,120240,115300,2040
+2021,12,Florida,AI/ML Engineering,15-1252,Software Developers,101140,105200,59570
+2021,12,Florida,Computer Science/Data Engineering,15-1252,Software Developers,101140,105200,59570
+2021,12,Florida,Statistics,15-2031,Operations Research Analysts,62460,70760,5930
+2021,12,Florida,Statistics,15-2041,Statisticians,78940,83090,1120
+2021,12,Florida,Data Science,15-2051,Data Scientists,77980,90850,4590
+2021,13,Georgia,Business Analytics,13-1111,Management Analysts,95890,100820,
+2021,13,Georgia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62010,71360,22490
+2021,13,Georgia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98320,101040,14880
+2021,13,Georgia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,79810,88480,510
+2021,13,Georgia,Computer Science/Data Engineering,15-1242,Database Administrators,93220,88920,3850
+2021,13,Georgia,Computer Science/Data Engineering,15-1243,Database Architects,127690,126310,1920
+2021,13,Georgia,AI/ML Engineering,15-1252,Software Developers,117150,114740,45640
+2021,13,Georgia,Computer Science/Data Engineering,15-1252,Software Developers,117150,114740,45640
+2021,13,Georgia,Statistics,15-2031,Operations Research Analysts,74190,77270,4420
+2021,13,Georgia,Statistics,15-2041,Statisticians,106120,104440,410
+2021,13,Georgia,Data Science,15-2051,Data Scientists,100620,104760,4340
+2021,15,Hawaii,Business Analytics,13-1111,Management Analysts,80700,85670,2510
+2021,15,Hawaii,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60360,65540,1370
+2021,15,Hawaii,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,79710,88660,1890
+2021,15,Hawaii,AI/ML Engineering,15-1221,Computer and Information Research Scientists,120410,110210,80
+2021,15,Hawaii,Computer Science/Data Engineering,15-1242,Database Administrators,98650,92650,130
+2021,15,Hawaii,Computer Science/Data Engineering,15-1243,Database Architects,81110,91250,40
+2021,15,Hawaii,AI/ML Engineering,15-1252,Software Developers,101990,112410,1920
+2021,15,Hawaii,Computer Science/Data Engineering,15-1252,Software Developers,101990,112410,1920
+2021,15,Hawaii,Statistics,15-2031,Operations Research Analysts,98680,104540,390
+2021,15,Hawaii,Statistics,15-2041,Statisticians,63040,72630,150
+2021,15,Hawaii,Data Science,15-2051,Data Scientists,80150,84200,70
+2021,16,Idaho,Business Analytics,13-1111,Management Analysts,63450,81390,3060
+2021,16,Idaho,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,49410,58830,2430
+2021,16,Idaho,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,79090,91200,1860
+2021,16,Idaho,AI/ML Engineering,15-1221,Computer and Information Research Scientists,130070,117990,50
+2021,16,Idaho,Computer Science/Data Engineering,15-1242,Database Administrators,75770,75250,280
+2021,16,Idaho,Computer Science/Data Engineering,15-1243,Database Architects,131910,137960,80
+2021,16,Idaho,AI/ML Engineering,15-1252,Software Developers,96530,98560,4890
+2021,16,Idaho,Computer Science/Data Engineering,15-1252,Software Developers,96530,98560,4890
+2021,16,Idaho,Statistics,15-2031,Operations Research Analysts,61800,70100,420
+2021,16,Idaho,Statistics,15-2041,Statisticians,101620,95410,50
+2021,16,Idaho,Data Science,15-2051,Data Scientists,99040,99240,150
+2021,17,Illinois,Business Analytics,13-1111,Management Analysts,101550,112420,46990
+2021,17,Illinois,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61970,68920,34410
+2021,17,Illinois,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94980,95170,25470
+2021,17,Illinois,AI/ML Engineering,15-1221,Computer and Information Research Scientists,109810,116040,170
+2021,17,Illinois,Computer Science/Data Engineering,15-1242,Database Administrators,83480,97700,5380
+2021,17,Illinois,Computer Science/Data Engineering,15-1243,Database Architects,103310,110530,1390
+2021,17,Illinois,AI/ML Engineering,15-1252,Software Developers,102990,109970,50060
+2021,17,Illinois,Computer Science/Data Engineering,15-1252,Software Developers,102990,109970,50060
+2021,17,Illinois,Statistics,15-2031,Operations Research Analysts,98580,97720,3970
+2021,17,Illinois,Statistics,15-2041,Statisticians,98320,104010,870
+2021,17,Illinois,Data Science,15-2051,Data Scientists,99720,104010,4670
+2021,18,Indiana,Business Analytics,13-1111,Management Analysts,77500,84390,11030
+2021,18,Indiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58090,62520,11560
+2021,18,Indiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81050,89510,8910
+2021,18,Indiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,93560,103420,160
+2021,18,Indiana,Computer Science/Data Engineering,15-1242,Database Administrators,78790,82000,1140
+2021,18,Indiana,Computer Science/Data Engineering,15-1243,Database Architects,99360,96540,630
+2021,18,Indiana,AI/ML Engineering,15-1252,Software Developers,95360,94920,11760
+2021,18,Indiana,Computer Science/Data Engineering,15-1252,Software Developers,95360,94920,11760
+2021,18,Indiana,Statistics,15-2031,Operations Research Analysts,74350,76680,1290
+2021,18,Indiana,Data Science,15-2051,Data Scientists,72580,75280,2150
+2021,19,Iowa,Business Analytics,13-1111,Management Analysts,80400,88090,5490
+2021,19,Iowa,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61180,67410,6670
+2021,19,Iowa,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81200,89040,5100
+2021,19,Iowa,AI/ML Engineering,15-1221,Computer and Information Research Scientists,134520,127800,
+2021,19,Iowa,Computer Science/Data Engineering,15-1242,Database Administrators,97710,90260,550
+2021,19,Iowa,Computer Science/Data Engineering,15-1243,Database Architects,103110,115450,210
+2021,19,Iowa,AI/ML Engineering,15-1252,Software Developers,99510,101530,10640
+2021,19,Iowa,Computer Science/Data Engineering,15-1252,Software Developers,99510,101530,10640
+2021,19,Iowa,Statistics,15-2031,Operations Research Analysts,75560,73580,430
+2021,19,Iowa,Statistics,15-2041,Statisticians,61460,63510,400
+2021,19,Iowa,Data Science,15-2051,Data Scientists,96970,91470,1510
+2021,20,Kansas,Business Analytics,13-1111,Management Analysts,76710,81960,4260
+2021,20,Kansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60110,65050,7610
+2021,20,Kansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77910,81650,4960
+2021,20,Kansas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,80050,90560,50
+2021,20,Kansas,Computer Science/Data Engineering,15-1242,Database Administrators,80290,89040,580
+2021,20,Kansas,Computer Science/Data Engineering,15-1243,Database Architects,101550,106500,190
+2021,20,Kansas,AI/ML Engineering,15-1252,Software Developers,99320,99380,10580
+2021,20,Kansas,Computer Science/Data Engineering,15-1252,Software Developers,99320,99380,10580
+2021,20,Kansas,Statistics,15-2031,Operations Research Analysts,77040,83430,530
+2021,20,Kansas,Statistics,15-2041,Statisticians,101620,105850,90
+2021,20,Kansas,Data Science,15-2051,Data Scientists,91500,93070,190
+2021,21,Kentucky,Business Analytics,13-1111,Management Analysts,77500,88430,3980
+2021,21,Kentucky,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,54820,61220,4930
+2021,21,Kentucky,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,75230,80300,3880
+2021,21,Kentucky,AI/ML Engineering,15-1221,Computer and Information Research Scientists,80520,100540,150
+2021,21,Kentucky,Computer Science/Data Engineering,15-1242,Database Administrators,65500,74680,590
+2021,21,Kentucky,Computer Science/Data Engineering,15-1243,Database Architects,101620,100260,400
+2021,21,Kentucky,AI/ML Engineering,15-1252,Software Developers,98750,97810,5030
+2021,21,Kentucky,Computer Science/Data Engineering,15-1252,Software Developers,98750,97810,5030
+2021,21,Kentucky,Statistics,15-2031,Operations Research Analysts,60610,62830,1010
+2021,21,Kentucky,Statistics,15-2041,Statisticians,77810,76130,150
+2021,21,Kentucky,Data Science,15-2051,Data Scientists,75680,79860,
+2021,22,Louisiana,Business Analytics,13-1111,Management Analysts,81380,91010,3380
+2021,22,Louisiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,49560,58490,3200
+2021,22,Louisiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,78800,84490,2290
+2021,22,Louisiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,75160,75600,170
+2021,22,Louisiana,Computer Science/Data Engineering,15-1242,Database Administrators,75000,94270,320
+2021,22,Louisiana,Computer Science/Data Engineering,15-1243,Database Architects,63240,71020,
+2021,22,Louisiana,AI/ML Engineering,15-1252,Software Developers,84620,93670,2370
+2021,22,Louisiana,Computer Science/Data Engineering,15-1252,Software Developers,84620,93670,2370
+2021,22,Louisiana,Statistics,15-2031,Operations Research Analysts,77320,78570,240
+2021,22,Louisiana,Statistics,15-2041,Statisticians,66070,73110,70
+2021,22,Louisiana,Data Science,15-2051,Data Scientists,74980,79470,130
+2021,23,Maine,Business Analytics,13-1111,Management Analysts,74850,80610,1410
+2021,23,Maine,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,74060,71350,1340
+2021,23,Maine,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,79050,83620,2020
+2021,23,Maine,Computer Science/Data Engineering,15-1242,Database Administrators,119990,104840,220
+2021,23,Maine,Computer Science/Data Engineering,15-1243,Database Architects,129840,123870,160
+2021,23,Maine,AI/ML Engineering,15-1252,Software Developers,99050,101440,2810
+2021,23,Maine,Computer Science/Data Engineering,15-1252,Software Developers,99050,101440,2810
+2021,23,Maine,Statistics,15-2031,Operations Research Analysts,76680,77620,390
+2021,23,Maine,Statistics,15-2041,Statisticians,74980,71790,80
+2021,23,Maine,Data Science,15-2051,Data Scientists,80150,90410,540
+2021,24,Maryland,Business Analytics,13-1111,Management Analysts,104620,107020,17200
+2021,24,Maryland,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62610,69140,9740
+2021,24,Maryland,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98650,102390,13150
+2021,24,Maryland,AI/ML Engineering,15-1221,Computer and Information Research Scientists,131330,129200,2220
+2021,24,Maryland,Computer Science/Data Engineering,15-1242,Database Administrators,99750,100350,2150
+2021,24,Maryland,Computer Science/Data Engineering,15-1243,Database Architects,131690,133120,620
+2021,24,Maryland,AI/ML Engineering,15-1252,Software Developers,127690,131240,25710
+2021,24,Maryland,Computer Science/Data Engineering,15-1252,Software Developers,127690,131240,25710
+2021,24,Maryland,Statistics,15-2031,Operations Research Analysts,102800,105040,4670
+2021,24,Maryland,Statistics,15-2041,Statisticians,113360,114210,3380
+2021,24,Maryland,Data Science,15-2051,Data Scientists,116140,117660,2280
+2021,25,Massachusetts,Business Analytics,13-1111,Management Analysts,103680,116870,29490
+2021,25,Massachusetts,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,76220,79490,21280
+2021,25,Massachusetts,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102470,112380,13850
+2021,25,Massachusetts,AI/ML Engineering,15-1221,Computer and Information Research Scientists,127780,139490,
+2021,25,Massachusetts,Computer Science/Data Engineering,15-1242,Database Administrators,120550,113750,2670
+2021,25,Massachusetts,Computer Science/Data Engineering,15-1243,Database Architects,133260,140540,1300
+2021,25,Massachusetts,AI/ML Engineering,15-1252,Software Developers,128160,128190,58980
+2021,25,Massachusetts,Computer Science/Data Engineering,15-1252,Software Developers,128160,128190,58980
+2021,25,Massachusetts,Statistics,15-2031,Operations Research Analysts,80110,89560,3360
+2021,25,Massachusetts,Statistics,15-2041,Statisticians,102830,116740,2040
+2021,25,Massachusetts,Data Science,15-2051,Data Scientists,101200,111550,2720
+2021,26,Michigan,Business Analytics,13-1111,Management Analysts,80160,90990,15720
+2021,26,Michigan,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62320,70520,17870
+2021,26,Michigan,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99340,100080,14750
+2021,26,Michigan,AI/ML Engineering,15-1221,Computer and Information Research Scientists,99740,105680,200
+2021,26,Michigan,Computer Science/Data Engineering,15-1242,Database Administrators,79050,84430,1410
+2021,26,Michigan,Computer Science/Data Engineering,15-1243,Database Architects,120710,113190,680
+2021,26,Michigan,AI/ML Engineering,15-1252,Software Developers,98560,97730,37490
+2021,26,Michigan,Computer Science/Data Engineering,15-1252,Software Developers,98560,97730,37490
+2021,26,Michigan,Statistics,15-2031,Operations Research Analysts,77800,84040,1220
+2021,26,Michigan,Statistics,15-2041,Statisticians,79510,92770,580
+2021,26,Michigan,Data Science,15-2051,Data Scientists,79730,86680,2990
+2021,27,Minnesota,Business Analytics,13-1111,Management Analysts,95880,100140,18790
+2021,27,Minnesota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,76920,81360,20180
+2021,27,Minnesota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100090,101200,14800
+2021,27,Minnesota,AI/ML Engineering,15-1221,Computer and Information Research Scientists,130590,127850,140
+2021,27,Minnesota,Computer Science/Data Engineering,15-1242,Database Administrators,99330,95910,1720
+2021,27,Minnesota,Computer Science/Data Engineering,15-1243,Database Architects,120710,125270,890
+2021,27,Minnesota,AI/ML Engineering,15-1252,Software Developers,102950,111400,36860
+2021,27,Minnesota,Computer Science/Data Engineering,15-1252,Software Developers,102950,111400,36860
+2021,27,Minnesota,Statistics,15-2031,Operations Research Analysts,80220,92640,2230
+2021,27,Minnesota,Statistics,15-2041,Statisticians,79060,87760,860
+2021,27,Minnesota,Data Science,15-2051,Data Scientists,101250,106130,1320
+2021,28,Mississippi,Business Analytics,13-1111,Management Analysts,76540,89600,2320
+2021,28,Mississippi,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,49250,56700,1900
+2021,28,Mississippi,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,62510,71550,1970
+2021,28,Mississippi,AI/ML Engineering,15-1221,Computer and Information Research Scientists,102770,101050,640
+2021,28,Mississippi,Computer Science/Data Engineering,15-1242,Database Administrators,76820,77030,270
+2021,28,Mississippi,Computer Science/Data Engineering,15-1243,Database Architects,99340,89710,120
+2021,28,Mississippi,AI/ML Engineering,15-1252,Software Developers,77960,85590,2020
+2021,28,Mississippi,Computer Science/Data Engineering,15-1252,Software Developers,77960,85590,2020
+2021,28,Mississippi,Statistics,15-2031,Operations Research Analysts,76820,77240,200
+2021,28,Mississippi,Data Science,15-2051,Data Scientists,76170,81240,140
+2021,29,Missouri,Business Analytics,13-1111,Management Analysts,81680,92980,12340
+2021,29,Missouri,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59800,67550,10510
+2021,29,Missouri,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82480,90540,8040
+2021,29,Missouri,AI/ML Engineering,15-1221,Computer and Information Research Scientists,91680,101680,190
+2021,29,Missouri,Computer Science/Data Engineering,15-1242,Database Administrators,80150,87580,1590
+2021,29,Missouri,Computer Science/Data Engineering,15-1243,Database Architects,103730,109840,700
+2021,29,Missouri,AI/ML Engineering,15-1252,Software Developers,99780,100290,19370
+2021,29,Missouri,Computer Science/Data Engineering,15-1252,Software Developers,99780,100290,19370
+2021,29,Missouri,Statistics,15-2031,Operations Research Analysts,74370,80870,940
+2021,29,Missouri,Statistics,15-2041,Statisticians,61800,69160,620
+2021,29,Missouri,Data Science,15-2051,Data Scientists,79830,89570,2630
+2021,30,Montana,Business Analytics,13-1111,Management Analysts,79930,96800,1210
+2021,30,Montana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55490,61360,1450
+2021,30,Montana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77620,75490,540
+2021,30,Montana,Computer Science/Data Engineering,15-1242,Database Administrators,74980,72590,230
+2021,30,Montana,AI/ML Engineering,15-1252,Software Developers,80610,92980,1360
+2021,30,Montana,Computer Science/Data Engineering,15-1252,Software Developers,80610,92980,1360
+2021,30,Montana,Statistics,15-2031,Operations Research Analysts,61800,70900,140
+2021,30,Montana,Statistics,15-2041,Statisticians,61800,71460,40
+2021,30,Montana,Data Science,15-2051,Data Scientists,75370,77830,50
+2021,31,Nebraska,Business Analytics,13-1111,Management Analysts,80000,85470,2850
+2021,31,Nebraska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58280,59470,3490
+2021,31,Nebraska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81030,85050,3750
+2021,31,Nebraska,AI/ML Engineering,15-1221,Computer and Information Research Scientists,77340,84660,50
+2021,31,Nebraska,Computer Science/Data Engineering,15-1242,Database Administrators,80190,87280,660
+2021,31,Nebraska,Computer Science/Data Engineering,15-1243,Database Architects,103110,113000,460
+2021,31,Nebraska,AI/ML Engineering,15-1252,Software Developers,101810,98590,7350
+2021,31,Nebraska,Computer Science/Data Engineering,15-1252,Software Developers,101810,98590,7350
+2021,31,Nebraska,Statistics,15-2031,Operations Research Analysts,92830,90060,240
+2021,31,Nebraska,Statistics,15-2041,Statisticians,77500,74070,170
+2021,31,Nebraska,Data Science,15-2051,Data Scientists,80180,80590,800
+2021,32,Nevada,Business Analytics,13-1111,Management Analysts,77480,84650,3050
+2021,32,Nevada,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60740,63160,2790
+2021,32,Nevada,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,96420,94550,1450
+2021,32,Nevada,AI/ML Engineering,15-1221,Computer and Information Research Scientists,130070,120890,50
+2021,32,Nevada,Computer Science/Data Engineering,15-1242,Database Administrators,81060,84700,440
+2021,32,Nevada,Computer Science/Data Engineering,15-1243,Database Architects,98870,90420,270
+2021,32,Nevada,AI/ML Engineering,15-1252,Software Developers,99510,101850,3480
+2021,32,Nevada,Computer Science/Data Engineering,15-1252,Software Developers,99510,101850,3480
+2021,32,Nevada,Statistics,15-2031,Operations Research Analysts,75880,78370,190
+2021,32,Nevada,Data Science,15-2051,Data Scientists,79860,97710,430
+2021,33,New Hampshire,Business Analytics,13-1111,Management Analysts,97230,104550,3300
+2021,33,New Hampshire,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63460,72680,3240
+2021,33,New Hampshire,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100820,105470,2580
+2021,33,New Hampshire,Computer Science/Data Engineering,15-1242,Database Administrators,101000,103280,250
+2021,33,New Hampshire,Computer Science/Data Engineering,15-1243,Database Architects,95820,97840,140
+2021,33,New Hampshire,AI/ML Engineering,15-1252,Software Developers,106730,116940,6580
+2021,33,New Hampshire,Computer Science/Data Engineering,15-1252,Software Developers,106730,116940,6580
+2021,33,New Hampshire,Statistics,15-2031,Operations Research Analysts,77150,81390,370
+2021,33,New Hampshire,Statistics,15-2041,Statisticians,78060,90620,70
+2021,33,New Hampshire,Data Science,15-2051,Data Scientists,91790,96100,310
+2021,34,New Jersey,Business Analytics,13-1111,Management Analysts,103080,116780,16930
+2021,34,New Jersey,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,79360,87570,19940
+2021,34,New Jersey,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102930,111140,13010
+2021,34,New Jersey,AI/ML Engineering,15-1221,Computer and Information Research Scientists,131440,131680,1190
+2021,34,New Jersey,Computer Science/Data Engineering,15-1242,Database Administrators,127940,124930,2320
+2021,34,New Jersey,Computer Science/Data Engineering,15-1243,Database Architects,131620,137690,1230
+2021,34,New Jersey,AI/ML Engineering,15-1252,Software Developers,127100,124100,46630
+2021,34,New Jersey,Computer Science/Data Engineering,15-1252,Software Developers,127100,124100,46630
+2021,34,New Jersey,Statistics,15-2031,Operations Research Analysts,80220,93330,3900
+2021,34,New Jersey,Statistics,15-2041,Statisticians,102300,109690,910
+2021,34,New Jersey,Data Science,15-2051,Data Scientists,127110,120240,2840
+2021,35,New Mexico,Business Analytics,13-1111,Management Analysts,77960,83090,3020
+2021,35,New Mexico,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,48880,55550,1350
+2021,35,New Mexico,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77680,79770,2060
+2021,35,New Mexico,AI/ML Engineering,15-1221,Computer and Information Research Scientists,120860,124980,800
+2021,35,New Mexico,Computer Science/Data Engineering,15-1242,Database Administrators,77500,82300,590
+2021,35,New Mexico,Computer Science/Data Engineering,15-1243,Database Architects,120240,111780,190
+2021,35,New Mexico,AI/ML Engineering,15-1252,Software Developers,98750,107460,2540
+2021,35,New Mexico,Computer Science/Data Engineering,15-1252,Software Developers,98750,107460,2540
+2021,35,New Mexico,Statistics,15-2031,Operations Research Analysts,85220,89000,350
+2021,35,New Mexico,Statistics,15-2041,Statisticians,60680,67770,190
+2021,35,New Mexico,Data Science,15-2051,Data Scientists,63060,80290,180
+2021,36,New York,Business Analytics,13-1111,Management Analysts,101350,114950,55360
+2021,36,New York,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,78870,88900,75910
+2021,36,New York,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101380,109920,24120
+2021,36,New York,AI/ML Engineering,15-1221,Computer and Information Research Scientists,128540,133660,840
+2021,36,New York,Computer Science/Data Engineering,15-1242,Database Administrators,101030,107260,4940
+2021,36,New York,Computer Science/Data Engineering,15-1243,Database Architects,131520,134000,4420
+2021,36,New York,AI/ML Engineering,15-1252,Software Developers,127870,129950,75790
+2021,36,New York,Computer Science/Data Engineering,15-1252,Software Developers,127870,129950,75790
+2021,36,New York,Statistics,15-2031,Operations Research Analysts,95540,100100,5420
+2021,36,New York,Statistics,15-2041,Statisticians,109140,127380,1290
+2021,36,New York,Data Science,15-2051,Data Scientists,121850,122540,10050
+2021,37,North Carolina,Business Analytics,13-1111,Management Analysts,96770,99400,22440
+2021,37,North Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62100,71510,23190
+2021,37,North Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99340,99580,23470
+2021,37,North Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,103110,119720,170
+2021,37,North Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,99040,98500,2760
+2021,37,North Carolina,Computer Science/Data Engineering,15-1243,Database Architects,104520,113710,2080
+2021,37,North Carolina,AI/ML Engineering,15-1252,Software Developers,119090,117240,51010
+2021,37,North Carolina,Computer Science/Data Engineering,15-1252,Software Developers,119090,117240,51010
+2021,37,North Carolina,Statistics,15-2031,Operations Research Analysts,95910,93460,1950
+2021,37,North Carolina,Statistics,15-2041,Statisticians,104670,111640,1620
+2021,37,North Carolina,Data Science,15-2051,Data Scientists,103810,113980,5050
+2021,38,North Dakota,Business Analytics,13-1111,Management Analysts,77770,86610,560
+2021,38,North Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60740,61000,1260
+2021,38,North Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92450,92340,200
+2021,38,North Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,62760,66860,80
+2021,38,North Dakota,Computer Science/Data Engineering,15-1243,Database Architects,99140,96870,50
+2021,38,North Dakota,AI/ML Engineering,15-1252,Software Developers,78730,83460,1750
+2021,38,North Dakota,Computer Science/Data Engineering,15-1252,Software Developers,78730,83460,1750
+2021,38,North Dakota,Statistics,15-2031,Operations Research Analysts,79680,82940,160
+2021,38,North Dakota,Statistics,15-2041,Statisticians,62930,73860,60
+2021,38,North Dakota,Data Science,15-2051,Data Scientists,82040,94230,30
+2021,39,Ohio,Business Analytics,13-1111,Management Analysts,79400,90230,24220
+2021,39,Ohio,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61460,68090,28540
+2021,39,Ohio,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,95330,94580,22420
+2021,39,Ohio,AI/ML Engineering,15-1221,Computer and Information Research Scientists,119140,117720,250
+2021,39,Ohio,Computer Science/Data Engineering,15-1242,Database Administrators,85590,89080,2700
+2021,39,Ohio,Computer Science/Data Engineering,15-1243,Database Architects,99510,103880,1490
+2021,39,Ohio,AI/ML Engineering,15-1252,Software Developers,99880,101870,46110
+2021,39,Ohio,Computer Science/Data Engineering,15-1252,Software Developers,99880,101870,46110
+2021,39,Ohio,Statistics,15-2031,Operations Research Analysts,85100,91020,4210
+2021,39,Ohio,Statistics,15-2041,Statisticians,75230,78020,600
+2021,39,Ohio,Data Science,15-2051,Data Scientists,80290,87820,3320
+2021,40,Oklahoma,Business Analytics,13-1111,Management Analysts,78620,85310,4420
+2021,40,Oklahoma,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,49750,60330,6150
+2021,40,Oklahoma,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,79200,88530,3200
+2021,40,Oklahoma,AI/ML Engineering,15-1221,Computer and Information Research Scientists,85000,85710,370
+2021,40,Oklahoma,Computer Science/Data Engineering,15-1242,Database Administrators,71940,74200,1190
+2021,40,Oklahoma,Computer Science/Data Engineering,15-1243,Database Architects,98750,102780,380
+2021,40,Oklahoma,AI/ML Engineering,15-1252,Software Developers,95360,100840,5890
+2021,40,Oklahoma,Computer Science/Data Engineering,15-1252,Software Developers,95360,100840,5890
+2021,40,Oklahoma,Statistics,15-2031,Operations Research Analysts,85920,95630,400
+2021,40,Oklahoma,Statistics,15-2041,Statisticians,53840,57690,240
+2021,40,Oklahoma,Data Science,15-2051,Data Scientists,74980,80040,1140
+2021,41,Oregon,Business Analytics,13-1111,Management Analysts,81680,93080,8150
+2021,41,Oregon,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63430,77360,9280
+2021,41,Oregon,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101000,107320,7030
+2021,41,Oregon,AI/ML Engineering,15-1221,Computer and Information Research Scientists,162770,166450,560
+2021,41,Oregon,Computer Science/Data Engineering,15-1242,Database Administrators,99360,97980,780
+2021,41,Oregon,Computer Science/Data Engineering,15-1243,Database Architects,121410,119070,520
+2021,41,Oregon,AI/ML Engineering,15-1252,Software Developers,103590,115160,18610
+2021,41,Oregon,Computer Science/Data Engineering,15-1252,Software Developers,103590,115160,18610
+2021,41,Oregon,Statistics,15-2031,Operations Research Analysts,79920,88150,1480
+2021,41,Oregon,Statistics,15-2041,Statisticians,79190,84570,550
+2021,41,Oregon,Data Science,15-2051,Data Scientists,102040,111240,1280
+2021,42,Pennsylvania,Business Analytics,13-1111,Management Analysts,79650,91170,23540
+2021,42,Pennsylvania,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62140,70130,27430
+2021,42,Pennsylvania,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94010,95800,17660
+2021,42,Pennsylvania,AI/ML Engineering,15-1221,Computer and Information Research Scientists,108300,124700,680
+2021,42,Pennsylvania,Computer Science/Data Engineering,15-1242,Database Administrators,77900,82000,4070
+2021,42,Pennsylvania,Computer Science/Data Engineering,15-1243,Database Architects,117270,106480,2530
+2021,42,Pennsylvania,AI/ML Engineering,15-1252,Software Developers,100720,105550,40130
+2021,42,Pennsylvania,Computer Science/Data Engineering,15-1252,Software Developers,100720,105550,40130
+2021,42,Pennsylvania,Statistics,15-2031,Operations Research Analysts,77650,81420,3240
+2021,42,Pennsylvania,Statistics,15-2041,Statisticians,77760,85340,1730
+2021,42,Pennsylvania,Data Science,15-2051,Data Scientists,89010,92760,4310
+2021,44,Rhode Island,Business Analytics,13-1111,Management Analysts,99340,107250,3790
+2021,44,Rhode Island,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63240,71980,3040
+2021,44,Rhode Island,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102410,107570,2110
+2021,44,Rhode Island,AI/ML Engineering,15-1221,Computer and Information Research Scientists,118100,112250,430
+2021,44,Rhode Island,Computer Science/Data Engineering,15-1242,Database Administrators,101380,107040,320
+2021,44,Rhode Island,AI/ML Engineering,15-1252,Software Developers,105100,128790,3490
+2021,44,Rhode Island,Computer Science/Data Engineering,15-1252,Software Developers,105100,128790,3490
+2021,44,Rhode Island,Data Science,15-2051,Data Scientists,100910,103950,410
+2021,45,South Carolina,Business Analytics,13-1111,Management Analysts,79400,90030,10350
+2021,45,South Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58420,63440,8840
+2021,45,South Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,78480,84600,8300
+2021,45,South Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111380,106440,430
+2021,45,South Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,77620,83180,610
+2021,45,South Carolina,Computer Science/Data Engineering,15-1243,Database Architects,100340,101170,380
+2021,45,South Carolina,AI/ML Engineering,15-1252,Software Developers,98510,102630,7160
+2021,45,South Carolina,Computer Science/Data Engineering,15-1252,Software Developers,98510,102630,7160
+2021,45,South Carolina,Statistics,15-2031,Operations Research Analysts,79440,86020,630
+2021,45,South Carolina,Statistics,15-2041,Statisticians,61520,68370,240
+2021,45,South Carolina,Data Science,15-2051,Data Scientists,99040,100620,600
+2021,46,South Dakota,Business Analytics,13-1111,Management Analysts,78710,82760,2830
+2021,46,South Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60130,62730,1160
+2021,46,South Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77620,80050,820
+2021,46,South Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,80290,83280,130
+2021,46,South Dakota,AI/ML Engineering,15-1252,Software Developers,78990,85910,1770
+2021,46,South Dakota,Computer Science/Data Engineering,15-1252,Software Developers,78990,85910,1770
+2021,46,South Dakota,Data Science,15-2051,Data Scientists,80290,87560,70
+2021,47,Tennessee,Business Analytics,13-1111,Management Analysts,79400,84150,7800
+2021,47,Tennessee,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60330,65020,7230
+2021,47,Tennessee,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,83690,92070,7460
+2021,47,Tennessee,AI/ML Engineering,15-1221,Computer and Information Research Scientists,97710,95500,70
+2021,47,Tennessee,Computer Science/Data Engineering,15-1242,Database Administrators,94110,87850,1520
+2021,47,Tennessee,Computer Science/Data Engineering,15-1243,Database Architects,112540,114520,420
+2021,47,Tennessee,AI/ML Engineering,15-1252,Software Developers,98180,99680,12640
+2021,47,Tennessee,Computer Science/Data Engineering,15-1252,Software Developers,98180,99680,12640
+2021,47,Tennessee,Statistics,15-2031,Operations Research Analysts,56180,61190,1410
+2021,47,Tennessee,Statistics,15-2041,Statisticians,78800,86270,540
+2021,47,Tennessee,Data Science,15-2051,Data Scientists,79860,90720,980
+2021,48,Texas,Business Analytics,13-1111,Management Analysts,85780,96620,39900
+2021,48,Texas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62320,70600,44230
+2021,48,Texas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100240,105130,52790
+2021,48,Texas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,139050,146180,2000
+2021,48,Texas,Computer Science/Data Engineering,15-1242,Database Administrators,98390,98910,7070
+2021,48,Texas,Computer Science/Data Engineering,15-1243,Database Architects,128150,126920,4100
+2021,48,Texas,AI/ML Engineering,15-1252,Software Developers,103350,111830,103510
+2021,48,Texas,Computer Science/Data Engineering,15-1252,Software Developers,103350,111830,103510
+2021,48,Texas,Statistics,15-2041,Statisticians,80830,89960,1030
+2021,48,Texas,Data Science,15-2051,Data Scientists,102600,114360,5850
+2021,49,Utah,Business Analytics,13-1111,Management Analysts,77470,80510,4220
+2021,49,Utah,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60360,62800,10460
+2021,49,Utah,AI/ML Engineering,15-1221,Computer and Information Research Scientists,85820,90830,780
+2021,49,Utah,Computer Science/Data Engineering,15-1242,Database Administrators,94980,90850,1400
+2021,49,Utah,Computer Science/Data Engineering,15-1243,Database Architects,101140,105290,450
+2021,49,Utah,AI/ML Engineering,15-1252,Software Developers,102600,109000,18200
+2021,49,Utah,Computer Science/Data Engineering,15-1252,Software Developers,102600,109000,18200
+2021,49,Utah,Statistics,15-2031,Operations Research Analysts,74910,76610,1010
+2021,49,Utah,Statistics,15-2041,Statisticians,76820,78360,330
+2021,49,Utah,Data Science,15-2051,Data Scientists,77750,79830,1790
+2021,50,Vermont,Business Analytics,13-1111,Management Analysts,91280,96920,1020
+2021,50,Vermont,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60980,65400,900
+2021,50,Vermont,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98640,95020,710
+2021,50,Vermont,Computer Science/Data Engineering,15-1242,Database Administrators,78170,80360,160
+2021,50,Vermont,AI/ML Engineering,15-1252,Software Developers,99210,108720,1540
+2021,50,Vermont,Computer Science/Data Engineering,15-1252,Software Developers,99210,108720,1540
+2021,50,Vermont,Statistics,15-2031,Operations Research Analysts,78440,81420,150
+2021,50,Vermont,Statistics,15-2041,Statisticians,79190,94590,140
+2021,50,Vermont,Data Science,15-2051,Data Scientists,125390,116220,150
+2021,51,Virginia,Business Analytics,13-1111,Management Analysts,100690,108890,56240
+2021,51,Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64950,78460,21440
+2021,51,Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100380,110070,23450
+2021,51,Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,127370,129680,2510
+2021,51,Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,99330,100930,5230
+2021,51,Virginia,Computer Science/Data Engineering,15-1243,Database Architects,103110,113900,4340
+2021,51,Virginia,AI/ML Engineering,15-1252,Software Developers,127630,127830,68250
+2021,51,Virginia,Computer Science/Data Engineering,15-1252,Software Developers,127630,127830,68250
+2021,51,Virginia,Statistics,15-2031,Operations Research Analysts,118570,117480,6720
+2021,51,Virginia,Statistics,15-2041,Statisticians,80710,96330,910
+2021,51,Virginia,Data Science,15-2051,Data Scientists,103210,115630,3650
+2021,53,Washington,Business Analytics,13-1111,Management Analysts,103080,114730,22490
+2021,53,Washington,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,79670,93210,23480
+2021,53,Washington,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102930,112050,14320
+2021,53,Washington,AI/ML Engineering,15-1221,Computer and Information Research Scientists,152940,136770,2360
+2021,53,Washington,Computer Science/Data Engineering,15-1242,Database Administrators,102600,109490,2310
+2021,53,Washington,Computer Science/Data Engineering,15-1243,Database Architects,164840,150430,1860
+2021,53,Washington,AI/ML Engineering,15-1252,Software Developers,151960,145150,81520
+2021,53,Washington,Computer Science/Data Engineering,15-1252,Software Developers,151960,145150,81520
+2021,53,Washington,Statistics,15-2031,Operations Research Analysts,86510,98440,1830
+2021,53,Washington,Statistics,15-2041,Statisticians,95270,99430,1460
+2021,53,Washington,Data Science,15-2051,Data Scientists,129560,133900,2460
+2021,54,West Virginia,Business Analytics,13-1111,Management Analysts,76530,74440,1800
+2021,54,West Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,46320,48940,960
+2021,54,West Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77620,79550,730
+2021,54,West Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,62340,70110,290
+2021,54,West Virginia,Computer Science/Data Engineering,15-1243,Database Architects,81520,95060,60
+2021,54,West Virginia,AI/ML Engineering,15-1252,Software Developers,78860,83450,1640
+2021,54,West Virginia,Computer Science/Data Engineering,15-1252,Software Developers,78860,83450,1640
+2021,54,West Virginia,Statistics,15-2031,Operations Research Analysts,48870,57010,330
+2021,54,West Virginia,Statistics,15-2041,Statisticians,50650,60440,160
+2021,54,West Virginia,Data Science,15-2051,Data Scientists,61710,64360,90
+2021,55,Wisconsin,Business Analytics,13-1111,Management Analysts,81580,97960,14440
+2021,55,Wisconsin,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60740,64650,11630
+2021,55,Wisconsin,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81640,96330,10740
+2021,55,Wisconsin,AI/ML Engineering,15-1221,Computer and Information Research Scientists,117970,103570,110
+2021,55,Wisconsin,Computer Science/Data Engineering,15-1242,Database Administrators,80390,87160,1380
+2021,55,Wisconsin,Computer Science/Data Engineering,15-1243,Database Architects,101660,105890,730
+2021,55,Wisconsin,AI/ML Engineering,15-1252,Software Developers,97550,96900,19940
+2021,55,Wisconsin,Computer Science/Data Engineering,15-1252,Software Developers,97550,96900,19940
+2021,55,Wisconsin,Statistics,15-2031,Operations Research Analysts,77030,90900,1670
+2021,55,Wisconsin,Statistics,15-2041,Statisticians,62680,65140,580
+2021,55,Wisconsin,Data Science,15-2051,Data Scientists,75180,71710,1490
+2021,56,Wyoming,Business Analytics,13-1111,Management Analysts,79730,88200,380
+2021,56,Wyoming,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,54490,60740,610
+2021,56,Wyoming,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77500,72990,140
+2021,56,Wyoming,Computer Science/Data Engineering,15-1242,Database Administrators,76510,71800,110
+2021,56,Wyoming,Computer Science/Data Engineering,15-1243,Database Architects,52480,54660,110
+2021,56,Wyoming,AI/ML Engineering,15-1252,Software Developers,80090,85730,620
+2021,56,Wyoming,Computer Science/Data Engineering,15-1252,Software Developers,80090,85730,620
+2021,56,Wyoming,Statistics,15-2041,Statisticians,86600,115920,30
+2022,01,Alabama,Business Analytics,13-1111,Management Analysts,92560,100680,5400
+2022,01,Alabama,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55680,63710,6410
+2022,01,Alabama,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102120,109060,4880
+2022,01,Alabama,AI/ML Engineering,15-1221,Computer and Information Research Scientists,102830,101190,
+2022,01,Alabama,Computer Science/Data Engineering,15-1242,Database Administrators,81810,87090,1740
+2022,01,Alabama,Computer Science/Data Engineering,15-1243,Database Architects,119410,119590,310
+2022,01,Alabama,AI/ML Engineering,15-1252,Software Developers,103520,107870,15680
+2022,01,Alabama,Computer Science/Data Engineering,15-1252,Software Developers,103520,107870,15680
+2022,01,Alabama,Statistics,15-2031,Operations Research Analysts,110860,109160,510
+2022,01,Alabama,Statistics,15-2041,Statisticians,67000,75230,180
+2022,01,Alabama,Data Science,15-2051,Data Scientists,85870,91570,
+2022,02,Alaska,Business Analytics,13-1111,Management Analysts,97470,101820,380
+2022,02,Alaska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67370,69500,350
+2022,02,Alaska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98920,97090,370
+2022,02,Alaska,Computer Science/Data Engineering,15-1242,Database Administrators,83330,92040,110
+2022,02,Alaska,Computer Science/Data Engineering,15-1243,Database Architects,110760,108900,50
+2022,02,Alaska,AI/ML Engineering,15-1252,Software Developers,134210,137940,390
+2022,02,Alaska,Computer Science/Data Engineering,15-1252,Software Developers,134210,137940,390
+2022,02,Alaska,Statistics,15-2031,Operations Research Analysts,87500,86890,90
+2022,02,Alaska,Statistics,15-2041,Statisticians,101120,103360,50
+2022,02,Alaska,Data Science,15-2051,Data Scientists,100040,103810,150
+2022,04,Arizona,Business Analytics,13-1111,Management Analysts,80770,92950,14670
+2022,04,Arizona,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63590,70370,15350
+2022,04,Arizona,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105510,107070,14260
+2022,04,Arizona,AI/ML Engineering,15-1221,Computer and Information Research Scientists,127510,125300,320
+2022,04,Arizona,Computer Science/Data Engineering,15-1242,Database Administrators,103670,99370,1960
+2022,04,Arizona,Computer Science/Data Engineering,15-1243,Database Architects,123700,122560,1100
+2022,04,Arizona,AI/ML Engineering,15-1252,Software Developers,110380,121930,38120
+2022,04,Arizona,Computer Science/Data Engineering,15-1252,Software Developers,110380,121930,38120
+2022,04,Arizona,Statistics,15-2031,Operations Research Analysts,61520,68660,2130
+2022,04,Arizona,Statistics,15-2041,Statisticians,86110,85060,880
+2022,04,Arizona,Data Science,15-2051,Data Scientists,102770,104220,2860
+2022,05,Arkansas,Business Analytics,13-1111,Management Analysts,63890,78380,5400
+2022,05,Arkansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67930,75990,4920
+2022,05,Arkansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77960,82530,2430
+2022,05,Arkansas,Computer Science/Data Engineering,15-1242,Database Administrators,76280,77560,400
+2022,05,Arkansas,Computer Science/Data Engineering,15-1243,Database Architects,86060,97210,300
+2022,05,Arkansas,AI/ML Engineering,15-1252,Software Developers,87880,87380,5140
+2022,05,Arkansas,Computer Science/Data Engineering,15-1252,Software Developers,87880,87380,5140
+2022,05,Arkansas,Statistics,15-2031,Operations Research Analysts,69620,73160,220
+2022,06,California,Business Analytics,13-1111,Management Analysts,85010,103180,121140
+2022,06,California,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,76230,88100,104790
+2022,06,California,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,122460,129330,55160
+2022,06,California,AI/ML Engineering,15-1221,Computer and Information Research Scientists,177770,232210,7510
+2022,06,California,Computer Science/Data Engineering,15-1242,Database Administrators,109990,114240,7830
+2022,06,California,Computer Science/Data Engineering,15-1243,Database Architects,155290,152960,4810
+2022,06,California,AI/ML Engineering,15-1252,Software Developers,164330,182570,258170
+2022,06,California,Computer Science/Data Engineering,15-1252,Software Developers,164330,182570,258170
+2022,06,California,Statistics,15-2031,Operations Research Analysts,89930,101720,8620
+2022,06,California,Statistics,15-2041,Statisticians,131960,136210,3030
+2022,06,California,Data Science,15-2051,Data Scientists,126810,147390,29420
+2022,08,Colorado,Business Analytics,13-1111,Management Analysts,98460,104980,10950
+2022,08,Colorado,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,74110,81680,26870
+2022,08,Colorado,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,109800,119020,9410
+2022,08,Colorado,AI/ML Engineering,15-1221,Computer and Information Research Scientists,112220,117790,260
+2022,08,Colorado,Computer Science/Data Engineering,15-1242,Database Administrators,107780,111210,2200
+2022,08,Colorado,Computer Science/Data Engineering,15-1243,Database Architects,132360,129930,4580
+2022,08,Colorado,AI/ML Engineering,15-1252,Software Developers,129920,136230,40930
+2022,08,Colorado,Computer Science/Data Engineering,15-1252,Software Developers,129920,136230,40930
+2022,08,Colorado,Statistics,15-2031,Operations Research Analysts,90400,97280,1120
+2022,08,Colorado,Statistics,15-2041,Statisticians,84740,92240,1290
+2022,08,Colorado,Data Science,15-2051,Data Scientists,103200,116560,3540
+2022,09,Connecticut,Business Analytics,13-1111,Management Analysts,99990,105650,9510
+2022,09,Connecticut,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66660,73280,8190
+2022,09,Connecticut,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101370,106300,6430
+2022,09,Connecticut,AI/ML Engineering,15-1221,Computer and Information Research Scientists,116120,125910,60
+2022,09,Connecticut,Computer Science/Data Engineering,15-1242,Database Administrators,109610,114910,890
+2022,09,Connecticut,Computer Science/Data Engineering,15-1243,Database Architects,130680,127060,640
+2022,09,Connecticut,AI/ML Engineering,15-1252,Software Developers,110420,120180,16200
+2022,09,Connecticut,Computer Science/Data Engineering,15-1252,Software Developers,110420,120180,16200
+2022,09,Connecticut,Statistics,15-2031,Operations Research Analysts,91760,98070,910
+2022,09,Connecticut,Statistics,15-2041,Statisticians,109410,128630,500
+2022,09,Connecticut,Data Science,15-2051,Data Scientists,105700,110220,950
+2022,10,Delaware,Business Analytics,13-1111,Management Analysts,82000,89700,4200
+2022,10,Delaware,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,83700,93050,2580
+2022,10,Delaware,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106480,116320,2140
+2022,10,Delaware,Computer Science/Data Engineering,15-1242,Database Administrators,100570,104620,590
+2022,10,Delaware,Computer Science/Data Engineering,15-1243,Database Architects,135960,142470,90
+2022,10,Delaware,AI/ML Engineering,15-1252,Software Developers,118450,121410,5300
+2022,10,Delaware,Computer Science/Data Engineering,15-1252,Software Developers,118450,121410,5300
+2022,10,Delaware,Statistics,15-2031,Operations Research Analysts,86100,97600,820
+2022,10,Delaware,Statistics,15-2041,Statisticians,98950,111650,80
+2022,10,Delaware,Data Science,15-2051,Data Scientists,132300,133320,480
+2022,11,District of Columbia,Business Analytics,13-1111,Management Analysts,110780,115720,19230
+2022,11,District of Columbia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,82160,103430,6090
+2022,11,District of Columbia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106390,118500,2690
+2022,11,District of Columbia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,125650,128640,380
+2022,11,District of Columbia,Computer Science/Data Engineering,15-1242,Database Administrators,108010,111530,610
+2022,11,District of Columbia,Computer Science/Data Engineering,15-1243,Database Architects,141380,141820,610
+2022,11,District of Columbia,AI/ML Engineering,15-1252,Software Developers,135230,136970,7760
+2022,11,District of Columbia,Computer Science/Data Engineering,15-1252,Software Developers,135230,136970,7760
+2022,11,District of Columbia,Statistics,15-2031,Operations Research Analysts,91170,102250,1910
+2022,11,District of Columbia,Statistics,15-2041,Statisticians,114980,114100,1020
+2022,11,District of Columbia,Data Science,15-2051,Data Scientists,97660,110190,3200
+2022,12,Florida,Business Analytics,13-1111,Management Analysts,77520,89760,61210
+2022,12,Florida,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62670,79810,53290
+2022,12,Florida,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94810,100940,31210
+2022,12,Florida,AI/ML Engineering,15-1221,Computer and Information Research Scientists,114590,131920,3100
+2022,12,Florida,Computer Science/Data Engineering,15-1242,Database Administrators,97770,100260,5270
+2022,12,Florida,Computer Science/Data Engineering,15-1243,Database Architects,128950,132370,1770
+2022,12,Florida,AI/ML Engineering,15-1252,Software Developers,107440,113300,73090
+2022,12,Florida,Computer Science/Data Engineering,15-1252,Software Developers,107440,113300,73090
+2022,12,Florida,Statistics,15-2031,Operations Research Analysts,75080,80550,7900
+2022,12,Florida,Statistics,15-2041,Statisticians,72800,83820,580
+2022,12,Florida,Data Science,15-2051,Data Scientists,100520,100780,8190
+2022,13,Georgia,Business Analytics,13-1111,Management Analysts,98390,108840,29240
+2022,13,Georgia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,70480,78630,24610
+2022,13,Georgia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100390,103530,15200
+2022,13,Georgia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,71720,84970,620
+2022,13,Georgia,Computer Science/Data Engineering,15-1242,Database Administrators,99980,99220,2950
+2022,13,Georgia,Computer Science/Data Engineering,15-1243,Database Architects,138630,138450,2970
+2022,13,Georgia,AI/ML Engineering,15-1252,Software Developers,122430,120120,52920
+2022,13,Georgia,Computer Science/Data Engineering,15-1252,Software Developers,122430,120120,52920
+2022,13,Georgia,Statistics,15-2031,Operations Research Analysts,76590,81780,4760
+2022,13,Georgia,Statistics,15-2041,Statisticians,108260,107920,420
+2022,13,Georgia,Data Science,15-2051,Data Scientists,100400,106400,5650
+2022,15,Hawaii,Business Analytics,13-1111,Management Analysts,84970,89950,2110
+2022,15,Hawaii,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55090,58210,1940
+2022,15,Hawaii,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,83600,93470,1800
+2022,15,Hawaii,AI/ML Engineering,15-1221,Computer and Information Research Scientists,127110,120840,120
+2022,15,Hawaii,Computer Science/Data Engineering,15-1242,Database Administrators,99990,96040,130
+2022,15,Hawaii,Computer Science/Data Engineering,15-1243,Database Architects,107700,108910,50
+2022,15,Hawaii,AI/ML Engineering,15-1252,Software Developers,103210,111020,2380
+2022,15,Hawaii,Computer Science/Data Engineering,15-1252,Software Developers,103210,111020,2380
+2022,15,Hawaii,Statistics,15-2031,Operations Research Analysts,97110,107920,360
+2022,15,Hawaii,Statistics,15-2041,Statisticians,70890,74350,110
+2022,15,Hawaii,Data Science,15-2051,Data Scientists,112330,103470,90
+2022,16,Idaho,Business Analytics,13-1111,Management Analysts,74830,87090,2490
+2022,16,Idaho,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,56390,62480,2660
+2022,16,Idaho,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85560,97210,2500
+2022,16,Idaho,AI/ML Engineering,15-1221,Computer and Information Research Scientists,139310,128090,60
+2022,16,Idaho,Computer Science/Data Engineering,15-1242,Database Administrators,67110,76200,320
+2022,16,Idaho,Computer Science/Data Engineering,15-1243,Database Architects,132260,126450,190
+2022,16,Idaho,AI/ML Engineering,15-1252,Software Developers,101440,100680,5500
+2022,16,Idaho,Computer Science/Data Engineering,15-1252,Software Developers,101440,100680,5500
+2022,16,Idaho,Statistics,15-2031,Operations Research Analysts,62710,72820,300
+2022,16,Idaho,Statistics,15-2041,Statisticians,106660,100770,50
+2022,16,Idaho,Data Science,15-2051,Data Scientists,96490,95520,250
+2022,17,Illinois,Business Analytics,13-1111,Management Analysts,102310,116650,49230
+2022,17,Illinois,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,68820,75230,36300
+2022,17,Illinois,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99050,100350,20880
+2022,17,Illinois,AI/ML Engineering,15-1221,Computer and Information Research Scientists,114330,113290,330
+2022,17,Illinois,Computer Science/Data Engineering,15-1242,Database Administrators,98500,109270,5000
+2022,17,Illinois,Computer Science/Data Engineering,15-1243,Database Architects,132840,132120,1520
+2022,17,Illinois,AI/ML Engineering,15-1252,Software Developers,118470,120180,58300
+2022,17,Illinois,Computer Science/Data Engineering,15-1252,Software Developers,118470,120180,58300
+2022,17,Illinois,Statistics,15-2031,Operations Research Analysts,101100,99480,4360
+2022,17,Illinois,Statistics,15-2041,Statisticians,99670,105560,380
+2022,17,Illinois,Data Science,15-2051,Data Scientists,103730,109870,6350
+2022,18,Indiana,Business Analytics,13-1111,Management Analysts,79860,88770,10930
+2022,18,Indiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58540,66050,13480
+2022,18,Indiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,83330,91470,9340
+2022,18,Indiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,93930,104700,160
+2022,18,Indiana,Computer Science/Data Engineering,15-1242,Database Administrators,76810,81630,1130
+2022,18,Indiana,Computer Science/Data Engineering,15-1243,Database Architects,90520,91780,540
+2022,18,Indiana,AI/ML Engineering,15-1252,Software Developers,100510,101070,11660
+2022,18,Indiana,Computer Science/Data Engineering,15-1252,Software Developers,100510,101070,11660
+2022,18,Indiana,Statistics,15-2031,Operations Research Analysts,76390,83050,1500
+2022,18,Indiana,Statistics,15-2041,Statisticians,93430,95190,270
+2022,18,Indiana,Data Science,15-2051,Data Scientists,75970,78890,2200
+2022,19,Iowa,Business Analytics,13-1111,Management Analysts,81570,89390,6080
+2022,19,Iowa,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61110,67880,8070
+2022,19,Iowa,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85790,91380,5050
+2022,19,Iowa,Computer Science/Data Engineering,15-1242,Database Administrators,86630,92130,440
+2022,19,Iowa,Computer Science/Data Engineering,15-1243,Database Architects,124420,124760,280
+2022,19,Iowa,AI/ML Engineering,15-1252,Software Developers,103580,103140,9310
+2022,19,Iowa,Computer Science/Data Engineering,15-1252,Software Developers,103580,103140,9310
+2022,19,Iowa,Statistics,15-2031,Operations Research Analysts,67740,70150,290
+2022,19,Iowa,Statistics,15-2041,Statisticians,84240,85640,260
+2022,19,Iowa,Data Science,15-2051,Data Scientists,94860,94190,1970
+2022,20,Kansas,Business Analytics,13-1111,Management Analysts,76390,80940,4660
+2022,20,Kansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58640,65520,8530
+2022,20,Kansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81390,84920,5580
+2022,20,Kansas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,109600,115980,50
+2022,20,Kansas,Computer Science/Data Engineering,15-1242,Database Administrators,103190,99070,600
+2022,20,Kansas,AI/ML Engineering,15-1252,Software Developers,102700,108890,12270
+2022,20,Kansas,Computer Science/Data Engineering,15-1252,Software Developers,102700,108890,12270
+2022,20,Kansas,Statistics,15-2031,Operations Research Analysts,86530,90060,480
+2022,20,Kansas,Statistics,15-2041,Statisticians,94650,99560,90
+2022,20,Kansas,Data Science,15-2051,Data Scientists,88860,94920,430
+2022,21,Kentucky,Business Analytics,13-1111,Management Analysts,81840,95040,3380
+2022,21,Kentucky,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57890,62980,5700
+2022,21,Kentucky,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,79630,84250,3860
+2022,21,Kentucky,AI/ML Engineering,15-1221,Computer and Information Research Scientists,90190,92330,270
+2022,21,Kentucky,Computer Science/Data Engineering,15-1242,Database Administrators,71050,82420,740
+2022,21,Kentucky,Computer Science/Data Engineering,15-1243,Database Architects,101420,99400,750
+2022,21,Kentucky,AI/ML Engineering,15-1252,Software Developers,100320,103980,6400
+2022,21,Kentucky,Computer Science/Data Engineering,15-1252,Software Developers,100320,103980,6400
+2022,21,Kentucky,Statistics,15-2031,Operations Research Analysts,66670,69010,1040
+2022,21,Kentucky,Statistics,15-2041,Statisticians,73090,73960,130
+2022,21,Kentucky,Data Science,15-2051,Data Scientists,81990,86470,
+2022,22,Louisiana,Business Analytics,13-1111,Management Analysts,83690,96870,3490
+2022,22,Louisiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55400,58610,3700
+2022,22,Louisiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81910,85250,2270
+2022,22,Louisiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,89250,90000,140
+2022,22,Louisiana,Computer Science/Data Engineering,15-1242,Database Administrators,113200,102810,610
+2022,22,Louisiana,AI/ML Engineering,15-1252,Software Developers,102670,109690,2930
+2022,22,Louisiana,Computer Science/Data Engineering,15-1252,Software Developers,102670,109690,2930
+2022,22,Louisiana,Statistics,15-2031,Operations Research Analysts,64480,72620,530
+2022,22,Louisiana,Statistics,15-2041,Statisticians,62000,71140,90
+2022,22,Louisiana,Data Science,15-2051,Data Scientists,65410,71710,580
+2022,23,Maine,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65910,69400,2130
+2022,23,Maine,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,80880,83920,2460
+2022,23,Maine,Computer Science/Data Engineering,15-1242,Database Administrators,92060,97330,220
+2022,23,Maine,Computer Science/Data Engineering,15-1243,Database Architects,131750,130480,80
+2022,23,Maine,AI/ML Engineering,15-1252,Software Developers,104430,105150,2500
+2022,23,Maine,Computer Science/Data Engineering,15-1252,Software Developers,104430,105150,2500
+2022,23,Maine,Statistics,15-2031,Operations Research Analysts,78300,81930,370
+2022,23,Maine,Statistics,15-2041,Statisticians,80030,81260,80
+2022,23,Maine,Data Science,15-2051,Data Scientists,95700,101080,800
+2022,24,Maryland,Business Analytics,13-1111,Management Analysts,107790,110260,19580
+2022,24,Maryland,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66020,72580,10670
+2022,24,Maryland,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105490,108120,14440
+2022,24,Maryland,AI/ML Engineering,15-1221,Computer and Information Research Scientists,135160,132370,2160
+2022,24,Maryland,Computer Science/Data Engineering,15-1242,Database Administrators,112000,116970,2180
+2022,24,Maryland,Computer Science/Data Engineering,15-1243,Database Architects,145050,152230,900
+2022,24,Maryland,AI/ML Engineering,15-1252,Software Developers,129810,135390,27800
+2022,24,Maryland,Computer Science/Data Engineering,15-1252,Software Developers,129810,135390,27800
+2022,24,Maryland,Statistics,15-2031,Operations Research Analysts,100060,107260,4820
+2022,24,Maryland,Statistics,15-2041,Statisticians,117500,122340,3240
+2022,24,Maryland,Data Science,15-2051,Data Scientists,117730,118960,2010
+2022,25,Massachusetts,Business Analytics,13-1111,Management Analysts,105020,123010,28360
+2022,25,Massachusetts,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77880,84240,24060
+2022,25,Massachusetts,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105220,121100,11410
+2022,25,Massachusetts,AI/ML Engineering,15-1221,Computer and Information Research Scientists,138310,152060,
+2022,25,Massachusetts,Computer Science/Data Engineering,15-1242,Database Administrators,107910,112300,2300
+2022,25,Massachusetts,Computer Science/Data Engineering,15-1243,Database Architects,141360,144770,1490
+2022,25,Massachusetts,AI/ML Engineering,15-1252,Software Developers,132330,133750,60310
+2022,25,Massachusetts,Computer Science/Data Engineering,15-1252,Software Developers,132330,133750,60310
+2022,25,Massachusetts,Statistics,15-2031,Operations Research Analysts,81020,88010,3040
+2022,25,Massachusetts,Statistics,15-2041,Statisticians,105570,110080,2760
+2022,25,Massachusetts,Data Science,15-2051,Data Scientists,106070,120340,
+2022,26,Michigan,Business Analytics,13-1111,Management Analysts,83990,102780,15830
+2022,26,Michigan,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63920,72060,20410
+2022,26,Michigan,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,104070,104360,15300
+2022,26,Michigan,AI/ML Engineering,15-1221,Computer and Information Research Scientists,121140,126030,240
+2022,26,Michigan,Computer Science/Data Engineering,15-1242,Database Administrators,83960,86470,1310
+2022,26,Michigan,Computer Science/Data Engineering,15-1243,Database Architects,77910,90420,1180
+2022,26,Michigan,AI/ML Engineering,15-1252,Software Developers,101070,101800,42200
+2022,26,Michigan,Computer Science/Data Engineering,15-1252,Software Developers,101070,101800,42200
+2022,26,Michigan,Statistics,15-2031,Operations Research Analysts,82340,90000,1220
+2022,26,Michigan,Statistics,15-2041,Statisticians,103930,104740,660
+2022,26,Michigan,Data Science,15-2051,Data Scientists,85470,92820,3900
+2022,27,Minnesota,Business Analytics,13-1111,Management Analysts,95990,104710,21180
+2022,27,Minnesota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77320,81740,23020
+2022,27,Minnesota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105610,105760,13380
+2022,27,Minnesota,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111230,124240,40
+2022,27,Minnesota,Computer Science/Data Engineering,15-1242,Database Administrators,94440,97640,1460
+2022,27,Minnesota,Computer Science/Data Engineering,15-1243,Database Architects,121820,120830,580
+2022,27,Minnesota,AI/ML Engineering,15-1252,Software Developers,110600,115790,36360
+2022,27,Minnesota,Computer Science/Data Engineering,15-1252,Software Developers,110600,115790,36360
+2022,27,Minnesota,Statistics,15-2031,Operations Research Analysts,85910,96210,1970
+2022,27,Minnesota,Statistics,15-2041,Statisticians,83570,91270,930
+2022,27,Minnesota,Data Science,15-2051,Data Scientists,106920,111740,1600
+2022,28,Mississippi,Business Analytics,13-1111,Management Analysts,82380,96520,3030
+2022,28,Mississippi,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,52090,59600,2210
+2022,28,Mississippi,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,64040,71020,1650
+2022,28,Mississippi,AI/ML Engineering,15-1221,Computer and Information Research Scientists,103790,104870,300
+2022,28,Mississippi,Computer Science/Data Engineering,15-1242,Database Administrators,70760,75980,240
+2022,28,Mississippi,Computer Science/Data Engineering,15-1243,Database Architects,105550,96260,90
+2022,28,Mississippi,AI/ML Engineering,15-1252,Software Developers,91750,98140,2600
+2022,28,Mississippi,Computer Science/Data Engineering,15-1252,Software Developers,91750,98140,2600
+2022,28,Mississippi,Statistics,15-2031,Operations Research Analysts,79690,84400,170
+2022,28,Mississippi,Data Science,15-2051,Data Scientists,56950,65940,
+2022,29,Missouri,Business Analytics,13-1111,Management Analysts,82720,102790,11860
+2022,29,Missouri,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62480,74210,11180
+2022,29,Missouri,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99780,99580,7910
+2022,29,Missouri,AI/ML Engineering,15-1221,Computer and Information Research Scientists,93720,99130,450
+2022,29,Missouri,Computer Science/Data Engineering,15-1242,Database Administrators,85470,90560,1870
+2022,29,Missouri,Computer Science/Data Engineering,15-1243,Database Architects,102430,107150,1370
+2022,29,Missouri,AI/ML Engineering,15-1252,Software Developers,101650,101990,22530
+2022,29,Missouri,Computer Science/Data Engineering,15-1252,Software Developers,101650,101990,22530
+2022,29,Missouri,Statistics,15-2031,Operations Research Analysts,67850,79340,1380
+2022,29,Missouri,Statistics,15-2041,Statisticians,79330,78990,560
+2022,29,Missouri,Data Science,15-2051,Data Scientists,78780,81860,4020
+2022,30,Montana,Business Analytics,13-1111,Management Analysts,78460,91540,1400
+2022,30,Montana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65500,72280,1690
+2022,30,Montana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82450,82110,530
+2022,30,Montana,Computer Science/Data Engineering,15-1242,Database Administrators,78690,77750,200
+2022,30,Montana,Computer Science/Data Engineering,15-1243,Database Architects,106810,105250,30
+2022,30,Montana,Statistics,15-2031,Operations Research Analysts,63110,70140,130
+2022,30,Montana,Data Science,15-2051,Data Scientists,75200,74720,90
+2022,31,Nebraska,Business Analytics,13-1111,Management Analysts,79550,83710,3370
+2022,31,Nebraska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58550,61390,3690
+2022,31,Nebraska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85190,89650,3450
+2022,31,Nebraska,Computer Science/Data Engineering,15-1242,Database Administrators,87320,90020,560
+2022,31,Nebraska,Computer Science/Data Engineering,15-1243,Database Architects,109560,116500,550
+2022,31,Nebraska,AI/ML Engineering,15-1252,Software Developers,106720,105560,7350
+2022,31,Nebraska,Computer Science/Data Engineering,15-1252,Software Developers,106720,105560,7350
+2022,31,Nebraska,Statistics,15-2031,Operations Research Analysts,95830,98390,200
+2022,31,Nebraska,Statistics,15-2041,Statisticians,81990,80830,140
+2022,31,Nebraska,Data Science,15-2051,Data Scientists,84490,89340,1310
+2022,32,Nevada,Business Analytics,13-1111,Management Analysts,78300,82570,3280
+2022,32,Nevada,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61160,67790,3650
+2022,32,Nevada,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,95440,101280,1890
+2022,32,Nevada,Computer Science/Data Engineering,15-1242,Database Administrators,85680,90850,390
+2022,32,Nevada,Computer Science/Data Engineering,15-1243,Database Architects,85330,87110,250
+2022,32,Nevada,AI/ML Engineering,15-1252,Software Developers,107920,119870,4150
+2022,32,Nevada,Computer Science/Data Engineering,15-1252,Software Developers,107920,119870,4150
+2022,32,Nevada,Statistics,15-2031,Operations Research Analysts,79410,86070,180
+2022,32,Nevada,Statistics,15-2041,Statisticians,66040,72800,40
+2022,32,Nevada,Data Science,15-2051,Data Scientists,82110,96870,850
+2022,33,New Hampshire,Business Analytics,13-1111,Management Analysts,107670,121320,3970
+2022,33,New Hampshire,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64260,73250,4060
+2022,33,New Hampshire,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105250,111930,2600
+2022,33,New Hampshire,AI/ML Engineering,15-1221,Computer and Information Research Scientists,107400,112970,50
+2022,33,New Hampshire,Computer Science/Data Engineering,15-1242,Database Administrators,106790,111680,280
+2022,33,New Hampshire,Computer Science/Data Engineering,15-1243,Database Architects,123790,125420,290
+2022,33,New Hampshire,AI/ML Engineering,15-1252,Software Developers,125280,125600,8350
+2022,33,New Hampshire,Computer Science/Data Engineering,15-1252,Software Developers,125280,125600,8350
+2022,33,New Hampshire,Statistics,15-2031,Operations Research Analysts,86190,93310,460
+2022,33,New Hampshire,Statistics,15-2041,Statisticians,92090,96060,60
+2022,33,New Hampshire,Data Science,15-2051,Data Scientists,77620,87300,620
+2022,34,New Jersey,Business Analytics,13-1111,Management Analysts,106670,126000,18880
+2022,34,New Jersey,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,79810,88420,21490
+2022,34,New Jersey,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,116680,123690,12260
+2022,34,New Jersey,AI/ML Engineering,15-1221,Computer and Information Research Scientists,115110,120190,1600
+2022,34,New Jersey,Computer Science/Data Engineering,15-1242,Database Administrators,127560,122410,2400
+2022,34,New Jersey,Computer Science/Data Engineering,15-1243,Database Architects,144730,145870,1260
+2022,34,New Jersey,AI/ML Engineering,15-1252,Software Developers,127900,128450,54920
+2022,34,New Jersey,Computer Science/Data Engineering,15-1252,Software Developers,127900,128450,54920
+2022,34,New Jersey,Statistics,15-2031,Operations Research Analysts,96210,102450,7280
+2022,34,New Jersey,Statistics,15-2041,Statisticians,105860,110680,710
+2022,34,New Jersey,Data Science,15-2051,Data Scientists,129210,129980,3030
+2022,35,New Mexico,Business Analytics,13-1111,Management Analysts,80070,81840,2810
+2022,35,New Mexico,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,51130,56270,1900
+2022,35,New Mexico,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85870,91200,2220
+2022,35,New Mexico,AI/ML Engineering,15-1221,Computer and Information Research Scientists,160310,152950,
+2022,35,New Mexico,Computer Science/Data Engineering,15-1242,Database Administrators,84360,86150,500
+2022,35,New Mexico,Computer Science/Data Engineering,15-1243,Database Architects,120610,110740,150
+2022,35,New Mexico,AI/ML Engineering,15-1252,Software Developers,100750,111440,2580
+2022,35,New Mexico,Computer Science/Data Engineering,15-1252,Software Developers,100750,111440,2580
+2022,35,New Mexico,Statistics,15-2031,Operations Research Analysts,91600,92700,330
+2022,35,New Mexico,Statistics,15-2041,Statisticians,62730,62700,200
+2022,35,New Mexico,Data Science,15-2051,Data Scientists,78790,87090,330
+2022,36,New York,Business Analytics,13-1111,Management Analysts,104070,120730,57260
+2022,36,New York,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,82660,94140,83000
+2022,36,New York,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105680,114570,20810
+2022,36,New York,AI/ML Engineering,15-1221,Computer and Information Research Scientists,140510,149970,720
+2022,36,New York,Computer Science/Data Engineering,15-1242,Database Administrators,104000,109150,4310
+2022,36,New York,Computer Science/Data Engineering,15-1243,Database Architects,137880,137390,3860
+2022,36,New York,AI/ML Engineering,15-1252,Software Developers,135090,141130,92040
+2022,36,New York,Computer Science/Data Engineering,15-1252,Software Developers,135090,141130,92040
+2022,36,New York,Statistics,15-2031,Operations Research Analysts,96620,108260,6040
+2022,36,New York,Statistics,15-2041,Statisticians,111330,137840,1220
+2022,36,New York,Data Science,15-2051,Data Scientists,124030,128200,14760
+2022,37,North Carolina,Business Analytics,13-1111,Management Analysts,98310,102310,19360
+2022,37,North Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65710,75710,26700
+2022,37,North Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99280,99830,23690
+2022,37,North Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,101340,114040,400
+2022,37,North Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,103750,102300,2240
+2022,37,North Carolina,Computer Science/Data Engineering,15-1243,Database Architects,123950,124060,2800
+2022,37,North Carolina,AI/ML Engineering,15-1252,Software Developers,126520,125630,57690
+2022,37,North Carolina,Computer Science/Data Engineering,15-1252,Software Developers,126520,125630,57690
+2022,37,North Carolina,Statistics,15-2031,Operations Research Analysts,96450,95190,2320
+2022,37,North Carolina,Statistics,15-2041,Statisticians,109210,119140,1550
+2022,37,North Carolina,Data Science,15-2051,Data Scientists,121970,119960,5350
+2022,38,North Dakota,Business Analytics,13-1111,Management Analysts,77470,87950,520
+2022,38,North Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60110,63300,1290
+2022,38,North Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,84980,95540,200
+2022,38,North Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,64520,76720,110
+2022,38,North Dakota,Computer Science/Data Engineering,15-1243,Database Architects,98420,97790,50
+2022,38,North Dakota,AI/ML Engineering,15-1252,Software Developers,84860,85220,2070
+2022,38,North Dakota,Computer Science/Data Engineering,15-1252,Software Developers,84860,85220,2070
+2022,38,North Dakota,Statistics,15-2031,Operations Research Analysts,87870,88710,170
+2022,38,North Dakota,Statistics,15-2041,Statisticians,65170,73230,50
+2022,38,North Dakota,Data Science,15-2051,Data Scientists,91050,93340,150
+2022,39,Ohio,Business Analytics,13-1111,Management Analysts,82640,94970,25250
+2022,39,Ohio,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62990,71010,29420
+2022,39,Ohio,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100960,100830,20170
+2022,39,Ohio,AI/ML Engineering,15-1221,Computer and Information Research Scientists,122260,119580,170
+2022,39,Ohio,Computer Science/Data Engineering,15-1242,Database Administrators,88760,91200,2130
+2022,39,Ohio,Computer Science/Data Engineering,15-1243,Database Architects,120260,115860,1260
+2022,39,Ohio,AI/ML Engineering,15-1252,Software Developers,104500,108530,43400
+2022,39,Ohio,Computer Science/Data Engineering,15-1252,Software Developers,104500,108530,43400
+2022,39,Ohio,Statistics,15-2031,Operations Research Analysts,86460,93490,3880
+2022,39,Ohio,Statistics,15-2041,Statisticians,80040,84800,430
+2022,39,Ohio,Data Science,15-2051,Data Scientists,88950,92080,3650
+2022,40,Oklahoma,Business Analytics,13-1111,Management Analysts,81990,87410,4330
+2022,40,Oklahoma,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,54870,62800,6320
+2022,40,Oklahoma,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,83520,89800,3370
+2022,40,Oklahoma,AI/ML Engineering,15-1221,Computer and Information Research Scientists,88590,94080,440
+2022,40,Oklahoma,Computer Science/Data Engineering,15-1242,Database Administrators,77170,79190,1100
+2022,40,Oklahoma,Computer Science/Data Engineering,15-1243,Database Architects,114400,120310,460
+2022,40,Oklahoma,AI/ML Engineering,15-1252,Software Developers,99510,106540,7740
+2022,40,Oklahoma,Computer Science/Data Engineering,15-1252,Software Developers,99510,106540,7740
+2022,40,Oklahoma,Statistics,15-2031,Operations Research Analysts,88480,91140,450
+2022,40,Oklahoma,Statistics,15-2041,Statisticians,51230,59870,130
+2022,40,Oklahoma,Data Science,15-2051,Data Scientists,79720,87810,1740
+2022,41,Oregon,Business Analytics,13-1111,Management Analysts,91000,94640,10070
+2022,41,Oregon,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,71740,78280,10190
+2022,41,Oregon,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106730,113640,5870
+2022,41,Oregon,AI/ML Engineering,15-1221,Computer and Information Research Scientists,171700,189910,540
+2022,41,Oregon,Computer Science/Data Engineering,15-1242,Database Administrators,100240,99770,760
+2022,41,Oregon,Computer Science/Data Engineering,15-1243,Database Architects,127780,125200,560
+2022,41,Oregon,AI/ML Engineering,15-1252,Software Developers,121230,121440,19880
+2022,41,Oregon,Computer Science/Data Engineering,15-1252,Software Developers,121230,121440,19880
+2022,41,Oregon,Statistics,15-2031,Operations Research Analysts,87630,92820,1530
+2022,41,Oregon,Statistics,15-2041,Statisticians,83200,85190,560
+2022,41,Oregon,Data Science,15-2051,Data Scientists,102530,111090,1610
+2022,42,Pennsylvania,Business Analytics,13-1111,Management Analysts,82170,94630,20900
+2022,42,Pennsylvania,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60950,66580,28210
+2022,42,Pennsylvania,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,88410,95740,20080
+2022,42,Pennsylvania,AI/ML Engineering,15-1221,Computer and Information Research Scientists,108550,145870,460
+2022,42,Pennsylvania,Computer Science/Data Engineering,15-1242,Database Administrators,85430,89590,2660
+2022,42,Pennsylvania,Computer Science/Data Engineering,15-1243,Database Architects,122440,120180,2940
+2022,42,Pennsylvania,AI/ML Engineering,15-1252,Software Developers,107170,115770,43370
+2022,42,Pennsylvania,Computer Science/Data Engineering,15-1252,Software Developers,107170,115770,43370
+2022,42,Pennsylvania,Statistics,15-2031,Operations Research Analysts,73300,79260,2320
+2022,42,Pennsylvania,Statistics,15-2041,Statisticians,80300,89540,1920
+2022,42,Pennsylvania,Data Science,15-2051,Data Scientists,91330,95940,6370
+2022,44,Rhode Island,Business Analytics,13-1111,Management Analysts,97800,109920,3900
+2022,44,Rhode Island,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65000,69840,3580
+2022,44,Rhode Island,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101970,104660,2040
+2022,44,Rhode Island,AI/ML Engineering,15-1221,Computer and Information Research Scientists,121950,116180,450
+2022,44,Rhode Island,Computer Science/Data Engineering,15-1242,Database Administrators,109540,115340,280
+2022,44,Rhode Island,Computer Science/Data Engineering,15-1243,Database Architects,128940,126390,40
+2022,44,Rhode Island,AI/ML Engineering,15-1252,Software Developers,129690,147030,
+2022,44,Rhode Island,Computer Science/Data Engineering,15-1252,Software Developers,129690,147030,
+2022,44,Rhode Island,Statistics,15-2031,Operations Research Analysts,62660,81610,170
+2022,44,Rhode Island,Data Science,15-2051,Data Scientists,109240,117570,620
+2022,45,South Carolina,Business Analytics,13-1111,Management Analysts,78900,87780,9360
+2022,45,South Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60220,67670,10450
+2022,45,South Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85210,94520,8340
+2022,45,South Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,113440,108960,430
+2022,45,South Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,90960,92710,750
+2022,45,South Carolina,Computer Science/Data Engineering,15-1243,Database Architects,117730,116040,540
+2022,45,South Carolina,AI/ML Engineering,15-1252,Software Developers,98630,105360,11100
+2022,45,South Carolina,Computer Science/Data Engineering,15-1252,Software Developers,98630,105360,11100
+2022,45,South Carolina,Statistics,15-2031,Operations Research Analysts,80200,83380,870
+2022,45,South Carolina,Statistics,15-2041,Statisticians,69170,73390,270
+2022,45,South Carolina,Data Science,15-2051,Data Scientists,99370,100550,1180
+2022,46,South Dakota,Business Analytics,13-1111,Management Analysts,78360,86120,2750
+2022,46,South Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59380,62560,1360
+2022,46,South Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85130,90660,890
+2022,46,South Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,80520,80780,150
+2022,46,South Dakota,AI/ML Engineering,15-1252,Software Developers,80290,85080,1840
+2022,46,South Dakota,Computer Science/Data Engineering,15-1252,Software Developers,80290,85080,1840
+2022,46,South Dakota,Data Science,15-2051,Data Scientists,108310,108430,110
+2022,47,Tennessee,Business Analytics,13-1111,Management Analysts,82120,92970,9240
+2022,47,Tennessee,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60770,66570,9850
+2022,47,Tennessee,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,89620,94700,8450
+2022,47,Tennessee,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111680,133520,
+2022,47,Tennessee,Computer Science/Data Engineering,15-1242,Database Administrators,104690,105920,1630
+2022,47,Tennessee,Computer Science/Data Engineering,15-1243,Database Architects,114440,114130,320
+2022,47,Tennessee,AI/ML Engineering,15-1252,Software Developers,103270,106390,17850
+2022,47,Tennessee,Computer Science/Data Engineering,15-1252,Software Developers,103270,106390,17850
+2022,47,Tennessee,Statistics,15-2031,Operations Research Analysts,59520,70010,1340
+2022,47,Tennessee,Statistics,15-2041,Statisticians,78980,86590,1080
+2022,47,Tennessee,Data Science,15-2051,Data Scientists,94690,112070,1210
+2022,48,Texas,Business Analytics,13-1111,Management Analysts,93980,101760,35060
+2022,48,Texas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60930,69720,49790
+2022,48,Texas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101720,106720,50320
+2022,48,Texas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,136060,142740,2280
+2022,48,Texas,Computer Science/Data Engineering,15-1242,Database Administrators,104000,103910,6710
+2022,48,Texas,Computer Science/Data Engineering,15-1243,Database Architects,153870,146970,7140
+2022,48,Texas,AI/ML Engineering,15-1252,Software Developers,111700,117440,116970
+2022,48,Texas,Computer Science/Data Engineering,15-1252,Software Developers,111700,117440,116970
+2022,48,Texas,Statistics,15-2031,Operations Research Analysts,87270,105240,12570
+2022,48,Texas,Statistics,15-2041,Statisticians,82090,88630,990
+2022,48,Texas,Data Science,15-2051,Data Scientists,99350,102230,13780
+2022,49,Utah,Business Analytics,13-1111,Management Analysts,78100,87340,6390
+2022,49,Utah,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59040,63890,12760
+2022,49,Utah,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,85260,100970,2840
+2022,49,Utah,AI/ML Engineering,15-1221,Computer and Information Research Scientists,91920,98360,690
+2022,49,Utah,Computer Science/Data Engineering,15-1242,Database Administrators,91030,94610,960
+2022,49,Utah,Computer Science/Data Engineering,15-1243,Database Architects,156000,145760,
+2022,49,Utah,AI/ML Engineering,15-1252,Software Developers,107990,112030,22030
+2022,49,Utah,Computer Science/Data Engineering,15-1252,Software Developers,107990,112030,22030
+2022,49,Utah,Statistics,15-2031,Operations Research Analysts,72020,76210,1340
+2022,49,Utah,Statistics,15-2041,Statisticians,81670,82010,330
+2022,49,Utah,Data Science,15-2051,Data Scientists,81250,88660,3070
+2022,50,Vermont,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62960,66600,890
+2022,50,Vermont,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,86960,96580,510
+2022,50,Vermont,Computer Science/Data Engineering,15-1243,Database Architects,119740,121650,80
+2022,50,Vermont,AI/ML Engineering,15-1252,Software Developers,99250,102850,1580
+2022,50,Vermont,Computer Science/Data Engineering,15-1252,Software Developers,99250,102850,1580
+2022,50,Vermont,Statistics,15-2031,Operations Research Analysts,70080,78050,160
+2022,50,Vermont,Statistics,15-2041,Statisticians,74460,81270,120
+2022,51,Virginia,Business Analytics,13-1111,Management Analysts,103480,113020,65200
+2022,51,Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67720,81710,22390
+2022,51,Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105870,114050,24080
+2022,51,Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,137240,141490,2550
+2022,51,Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,99220,103300,5650
+2022,51,Virginia,AI/ML Engineering,15-1252,Software Developers,130980,132850,84220
+2022,51,Virginia,Computer Science/Data Engineering,15-1252,Software Developers,130980,132850,84220
+2022,51,Virginia,Statistics,15-2031,Operations Research Analysts,125520,121460,6890
+2022,51,Virginia,Statistics,15-2041,Statisticians,92830,98930,980
+2022,51,Virginia,Data Science,15-2051,Data Scientists,132400,133990,4500
+2022,53,Washington,Business Analytics,13-1111,Management Analysts,103680,109560,25100
+2022,53,Washington,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,85020,100340,23410
+2022,53,Washington,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,115010,127330,16810
+2022,53,Washington,AI/ML Engineering,15-1221,Computer and Information Research Scientists,182650,182800,1180
+2022,53,Washington,Computer Science/Data Engineering,15-1242,Database Administrators,105730,109590,1840
+2022,53,Washington,Computer Science/Data Engineering,15-1243,Database Architects,169580,159650,3220
+2022,53,Washington,AI/ML Engineering,15-1252,Software Developers,151930,152010,91200
+2022,53,Washington,Computer Science/Data Engineering,15-1252,Software Developers,151930,152010,91200
+2022,53,Washington,Statistics,15-2031,Operations Research Analysts,82330,91380,2660
+2022,53,Washington,Statistics,15-2041,Statisticians,104920,109570,1410
+2022,53,Washington,Data Science,15-2051,Data Scientists,135850,140780,4160
+2022,54,West Virginia,Business Analytics,13-1111,Management Analysts,78040,90030,1980
+2022,54,West Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,47070,52980,1240
+2022,54,West Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77320,81870,730
+2022,54,West Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,62480,70180,300
+2022,54,West Virginia,Computer Science/Data Engineering,15-1243,Database Architects,128860,126100,100
+2022,54,West Virginia,AI/ML Engineering,15-1252,Software Developers,88190,92110,1750
+2022,54,West Virginia,Computer Science/Data Engineering,15-1252,Software Developers,88190,92110,1750
+2022,54,West Virginia,Statistics,15-2031,Operations Research Analysts,58970,66380,190
+2022,54,West Virginia,Statistics,15-2041,Statisticians,53060,65270,110
+2022,54,West Virginia,Data Science,15-2051,Data Scientists,67010,72550,70
+2022,55,Wisconsin,Business Analytics,13-1111,Management Analysts,83700,96980,11540
+2022,55,Wisconsin,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61200,66760,12890
+2022,55,Wisconsin,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92380,103340,10870
+2022,55,Wisconsin,AI/ML Engineering,15-1221,Computer and Information Research Scientists,139970,130610,90
+2022,55,Wisconsin,Computer Science/Data Engineering,15-1242,Database Administrators,92630,93590,1120
+2022,55,Wisconsin,Computer Science/Data Engineering,15-1243,Database Architects,127380,121770,610
+2022,55,Wisconsin,AI/ML Engineering,15-1252,Software Developers,100310,101330,18450
+2022,55,Wisconsin,Computer Science/Data Engineering,15-1252,Software Developers,100310,101330,18450
+2022,55,Wisconsin,Statistics,15-2031,Operations Research Analysts,79490,87290,2770
+2022,55,Wisconsin,Statistics,15-2041,Statisticians,74080,88480,290
+2022,55,Wisconsin,Data Science,15-2051,Data Scientists,95410,90760,2740
+2022,56,Wyoming,Business Analytics,13-1111,Management Analysts,79350,87600,330
+2022,56,Wyoming,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,52000,58030,870
+2022,56,Wyoming,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,63280,72040,160
+2022,56,Wyoming,Computer Science/Data Engineering,15-1242,Database Administrators,71220,73420,110
+2022,56,Wyoming,AI/ML Engineering,15-1252,Software Developers,101410,100070,660
+2022,56,Wyoming,Computer Science/Data Engineering,15-1252,Software Developers,101410,100070,660
+2022,56,Wyoming,Statistics,15-2041,Statisticians,88250,131680,30
+2022,56,Wyoming,Data Science,15-2051,Data Scientists,139970,128860,40
+2023,01,Alabama,Business Analytics,13-1111,Management Analysts,98900,112390,5830
+2023,01,Alabama,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57730,68420,7220
+2023,01,Alabama,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102560,108520,5950
+2023,01,Alabama,AI/ML Engineering,15-1221,Computer and Information Research Scientists,102250,105360,480
+2023,01,Alabama,Computer Science/Data Engineering,15-1242,Database Administrators,85070,89510,1550
+2023,01,Alabama,Computer Science/Data Engineering,15-1243,Database Architects,114000,114400,310
+2023,01,Alabama,AI/ML Engineering,15-1252,Software Developers,102730,110630,17130
+2023,01,Alabama,Computer Science/Data Engineering,15-1252,Software Developers,102730,110630,17130
+2023,01,Alabama,Statistics,15-2031,Operations Research Analysts,107470,112400,570
+2023,01,Alabama,Statistics,15-2041,Statisticians,71160,77300,210
+2023,01,Alabama,Data Science,15-2051,Data Scientists,100560,99040,1120
+2023,02,Alaska,Business Analytics,13-1111,Management Analysts,101250,105470,380
+2023,02,Alaska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59990,69210,350
+2023,02,Alaska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,86720,88210,430
+2023,02,Alaska,Computer Science/Data Engineering,15-1242,Database Administrators,90800,90370,90
+2023,02,Alaska,Computer Science/Data Engineering,15-1243,Database Architects,119440,125650,50
+2023,02,Alaska,AI/ML Engineering,15-1252,Software Developers,151400,145630,280
+2023,02,Alaska,Computer Science/Data Engineering,15-1252,Software Developers,151400,145630,280
+2023,02,Alaska,Statistics,15-2031,Operations Research Analysts,102450,97410,90
+2023,02,Alaska,Statistics,15-2041,Statisticians,94930,101730,50
+2023,02,Alaska,Data Science,15-2051,Data Scientists,80000,91710,200
+2023,04,Arizona,Business Analytics,13-1111,Management Analysts,82900,97980,16600
+2023,04,Arizona,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67900,76700,16680
+2023,04,Arizona,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100280,100510,11860
+2023,04,Arizona,AI/ML Engineering,15-1221,Computer and Information Research Scientists,134910,147500,360
+2023,04,Arizona,Computer Science/Data Engineering,15-1242,Database Administrators,107940,104470,1510
+2023,04,Arizona,Computer Science/Data Engineering,15-1243,Database Architects,122620,121080,1040
+2023,04,Arizona,AI/ML Engineering,15-1252,Software Developers,123180,128040,38540
+2023,04,Arizona,Computer Science/Data Engineering,15-1252,Software Developers,123180,128040,38540
+2023,04,Arizona,Statistics,15-2031,Operations Research Analysts,76010,79700,2600
+2023,04,Arizona,Statistics,15-2041,Statisticians,82550,94080,450
+2023,04,Arizona,Data Science,15-2051,Data Scientists,106400,112470,3800
+2023,05,Arkansas,Business Analytics,13-1111,Management Analysts,60920,77180,5410
+2023,05,Arkansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62980,71970,5650
+2023,05,Arkansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,77210,84330,2620
+2023,05,Arkansas,Computer Science/Data Engineering,15-1242,Database Administrators,84930,91160,490
+2023,05,Arkansas,Computer Science/Data Engineering,15-1243,Database Architects,98280,96180,290
+2023,05,Arkansas,AI/ML Engineering,15-1252,Software Developers,92140,88130,5650
+2023,05,Arkansas,Computer Science/Data Engineering,15-1252,Software Developers,92140,88130,5650
+2023,05,Arkansas,Statistics,15-2031,Operations Research Analysts,67720,75020,140
+2023,05,Arkansas,Data Science,15-2051,Data Scientists,115890,117250,330
+2023,06,California,Business Analytics,13-1111,Management Analysts,99800,119370,110430
+2023,06,California,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,83090,100040,113630
+2023,06,California,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,124370,129420,49930
+2023,06,California,AI/ML Engineering,15-1221,Computer and Information Research Scientists,175530,187420,7560
+2023,06,California,Computer Science/Data Engineering,15-1242,Database Administrators,112170,116380,8070
+2023,06,California,Computer Science/Data Engineering,15-1243,Database Architects,162250,162660,6120
+2023,06,California,AI/ML Engineering,15-1252,Software Developers,168660,173780,304390
+2023,06,California,Computer Science/Data Engineering,15-1252,Software Developers,168660,173780,304390
+2023,06,California,Statistics,15-2031,Operations Research Analysts,82870,92150,20100
+2023,06,California,Statistics,15-2041,Statisticians,125860,129290,2800
+2023,06,California,Data Science,15-2051,Data Scientists,133690,140490,33220
+2023,08,Colorado,Business Analytics,13-1111,Management Analysts,94750,105670,13130
+2023,08,Colorado,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77250,85600,26880
+2023,08,Colorado,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105980,118340,9290
+2023,08,Colorado,AI/ML Engineering,15-1221,Computer and Information Research Scientists,126840,132070,350
+2023,08,Colorado,Computer Science/Data Engineering,15-1242,Database Administrators,116420,116470,1950
+2023,08,Colorado,Computer Science/Data Engineering,15-1243,Database Architects,134780,141890,2180
+2023,08,Colorado,AI/ML Engineering,15-1252,Software Developers,134960,145420,45270
+2023,08,Colorado,Computer Science/Data Engineering,15-1252,Software Developers,134960,145420,45270
+2023,08,Colorado,Statistics,15-2031,Operations Research Analysts,99470,101130,960
+2023,08,Colorado,Statistics,15-2041,Statisticians,96160,101090,1140
+2023,08,Colorado,Data Science,15-2051,Data Scientists,111970,120320,5910
+2023,09,Connecticut,Business Analytics,13-1111,Management Analysts,102960,115530,9570
+2023,09,Connecticut,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,73900,79890,8330
+2023,09,Connecticut,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,103830,107670,6610
+2023,09,Connecticut,AI/ML Engineering,15-1221,Computer and Information Research Scientists,112580,126070,50
+2023,09,Connecticut,Computer Science/Data Engineering,15-1242,Database Administrators,114400,109950,870
+2023,09,Connecticut,Computer Science/Data Engineering,15-1243,Database Architects,143540,140610,650
+2023,09,Connecticut,AI/ML Engineering,15-1252,Software Developers,125080,128450,18380
+2023,09,Connecticut,Computer Science/Data Engineering,15-1252,Software Developers,125080,128450,18380
+2023,09,Connecticut,Statistics,15-2031,Operations Research Analysts,95310,95490,1020
+2023,09,Connecticut,Statistics,15-2041,Statisticians,109700,122420,310
+2023,09,Connecticut,Data Science,15-2051,Data Scientists,112750,120480,1190
+2023,10,Delaware,Business Analytics,13-1111,Management Analysts,86560,101500,4440
+2023,10,Delaware,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,84710,94790,2610
+2023,10,Delaware,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,113060,131620,2660
+2023,10,Delaware,Computer Science/Data Engineering,15-1242,Database Administrators,103240,105350,740
+2023,10,Delaware,Computer Science/Data Engineering,15-1243,Database Architects,148320,153570,70
+2023,10,Delaware,AI/ML Engineering,15-1252,Software Developers,131690,131650,4850
+2023,10,Delaware,Computer Science/Data Engineering,15-1252,Software Developers,131690,131650,4850
+2023,10,Delaware,Statistics,15-2031,Operations Research Analysts,104220,107770,670
+2023,10,Delaware,Statistics,15-2041,Statisticians,106000,121550,120
+2023,10,Delaware,Data Science,15-2051,Data Scientists,138780,130520,530
+2023,11,District of Columbia,Business Analytics,13-1111,Management Analysts,119480,120480,18570
+2023,11,District of Columbia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,79630,92190,6320
+2023,11,District of Columbia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,103960,120030,2310
+2023,11,District of Columbia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,145780,145620,300
+2023,11,District of Columbia,Computer Science/Data Engineering,15-1242,Database Administrators,120220,116470,520
+2023,11,District of Columbia,Computer Science/Data Engineering,15-1243,Database Architects,164720,162980,560
+2023,11,District of Columbia,AI/ML Engineering,15-1252,Software Developers,140360,146060,8470
+2023,11,District of Columbia,Computer Science/Data Engineering,15-1252,Software Developers,140360,146060,8470
+2023,11,District of Columbia,Statistics,15-2031,Operations Research Analysts,109990,116320,2230
+2023,11,District of Columbia,Statistics,15-2041,Statisticians,128640,127280,670
+2023,11,District of Columbia,Data Science,15-2051,Data Scientists,122010,128810,3100
+2023,12,Florida,Business Analytics,13-1111,Management Analysts,82390,95920,68540
+2023,12,Florida,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,71650,80830,55760
+2023,12,Florida,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99770,106050,32760
+2023,12,Florida,AI/ML Engineering,15-1221,Computer and Information Research Scientists,118190,131680,1160
+2023,12,Florida,Computer Science/Data Engineering,15-1242,Database Administrators,102280,104590,4690
+2023,12,Florida,Computer Science/Data Engineering,15-1243,Database Architects,123960,122790,1860
+2023,12,Florida,AI/ML Engineering,15-1252,Software Developers,122310,120490,86550
+2023,12,Florida,Computer Science/Data Engineering,15-1252,Software Developers,122310,120490,86550
+2023,12,Florida,Statistics,15-2031,Operations Research Analysts,78830,86260,7750
+2023,12,Florida,Statistics,15-2041,Statisticians,82060,87310,510
+2023,12,Florida,Data Science,15-2051,Data Scientists,95360,106490,8400
+2023,13,Georgia,Business Analytics,13-1111,Management Analysts,101530,110250,34060
+2023,13,Georgia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67970,79130,28440
+2023,13,Georgia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100120,105820,12240
+2023,13,Georgia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,83600,92530,620
+2023,13,Georgia,Computer Science/Data Engineering,15-1242,Database Administrators,104000,106880,2860
+2023,13,Georgia,Computer Science/Data Engineering,15-1243,Database Architects,155210,147250,2790
+2023,13,Georgia,AI/ML Engineering,15-1252,Software Developers,127070,125290,51960
+2023,13,Georgia,Computer Science/Data Engineering,15-1252,Software Developers,127070,125290,51960
+2023,13,Georgia,Statistics,15-2031,Operations Research Analysts,78320,82810,4600
+2023,13,Georgia,Statistics,15-2041,Statisticians,107480,114330,490
+2023,13,Georgia,Data Science,15-2051,Data Scientists,100950,108010,6510
+2023,15,Hawaii,Business Analytics,13-1111,Management Analysts,83780,91270,2610
+2023,15,Hawaii,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59300,61640,1690
+2023,15,Hawaii,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,87980,93230,1440
+2023,15,Hawaii,AI/ML Engineering,15-1221,Computer and Information Research Scientists,133160,137720,110
+2023,15,Hawaii,Computer Science/Data Engineering,15-1242,Database Administrators,90500,90300,110
+2023,15,Hawaii,Computer Science/Data Engineering,15-1243,Database Architects,133040,137690,50
+2023,15,Hawaii,AI/ML Engineering,15-1252,Software Developers,104860,113860,2740
+2023,15,Hawaii,Computer Science/Data Engineering,15-1252,Software Developers,104860,113860,2740
+2023,15,Hawaii,Statistics,15-2031,Operations Research Analysts,102080,101520,230
+2023,15,Hawaii,Statistics,15-2041,Statisticians,68540,72700,100
+2023,15,Hawaii,Data Science,15-2051,Data Scientists,129930,126080,150
+2023,16,Idaho,Business Analytics,13-1111,Management Analysts,74790,88050,2820
+2023,16,Idaho,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55780,61730,2770
+2023,16,Idaho,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,80960,91360,1910
+2023,16,Idaho,AI/ML Engineering,15-1221,Computer and Information Research Scientists,163660,175360,
+2023,16,Idaho,Computer Science/Data Engineering,15-1242,Database Administrators,75590,83500,210
+2023,16,Idaho,Computer Science/Data Engineering,15-1243,Database Architects,133590,133130,290
+2023,16,Idaho,AI/ML Engineering,15-1252,Software Developers,102700,135000,5910
+2023,16,Idaho,Computer Science/Data Engineering,15-1252,Software Developers,102700,135000,5910
+2023,16,Idaho,Statistics,15-2031,Operations Research Analysts,69830,84620,430
+2023,16,Idaho,Statistics,15-2041,Statisticians,91440,95510,40
+2023,16,Idaho,Data Science,15-2051,Data Scientists,122280,126190,710
+2023,17,Illinois,Business Analytics,13-1111,Management Analysts,104610,121310,44210
+2023,17,Illinois,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,69990,79000,37790
+2023,17,Illinois,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99470,101970,20570
+2023,17,Illinois,AI/ML Engineering,15-1221,Computer and Information Research Scientists,116450,115410,190
+2023,17,Illinois,Computer Science/Data Engineering,15-1242,Database Administrators,96560,108650,3370
+2023,17,Illinois,Computer Science/Data Engineering,15-1243,Database Architects,128990,124240,1500
+2023,17,Illinois,AI/ML Engineering,15-1252,Software Developers,126200,123700,56290
+2023,17,Illinois,Computer Science/Data Engineering,15-1252,Software Developers,126200,123700,56290
+2023,17,Illinois,Statistics,15-2031,Operations Research Analysts,101880,106300,5320
+2023,17,Illinois,Statistics,15-2041,Statisticians,114180,117170,460
+2023,17,Illinois,Data Science,15-2051,Data Scientists,108580,115840,6320
+2023,18,Indiana,Business Analytics,13-1111,Management Analysts,83560,94760,12140
+2023,18,Indiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62330,70360,14400
+2023,18,Indiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92310,96610,10900
+2023,18,Indiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,82360,88770,680
+2023,18,Indiana,Computer Science/Data Engineering,15-1242,Database Administrators,75980,76130,1280
+2023,18,Indiana,Computer Science/Data Engineering,15-1243,Database Architects,84020,93180,700
+2023,18,Indiana,AI/ML Engineering,15-1252,Software Developers,105740,110580,13440
+2023,18,Indiana,Computer Science/Data Engineering,15-1252,Software Developers,105740,110580,13440
+2023,18,Indiana,Statistics,15-2031,Operations Research Analysts,82600,88120,1660
+2023,18,Indiana,Statistics,15-2041,Statisticians,102150,105440,230
+2023,18,Indiana,Data Science,15-2051,Data Scientists,81620,92520,2440
+2023,19,Iowa,Business Analytics,13-1111,Management Analysts,83490,91630,5070
+2023,19,Iowa,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62660,70230,7920
+2023,19,Iowa,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,91040,95380,4770
+2023,19,Iowa,AI/ML Engineering,15-1221,Computer and Information Research Scientists,110510,102710,40
+2023,19,Iowa,Computer Science/Data Engineering,15-1242,Database Administrators,90090,93890,410
+2023,19,Iowa,Computer Science/Data Engineering,15-1243,Database Architects,132330,130660,400
+2023,19,Iowa,AI/ML Engineering,15-1252,Software Developers,105920,110280,9730
+2023,19,Iowa,Computer Science/Data Engineering,15-1252,Software Developers,105920,110280,9730
+2023,19,Iowa,Statistics,15-2031,Operations Research Analysts,82020,82640,190
+2023,19,Iowa,Statistics,15-2041,Statisticians,83890,87610,280
+2023,19,Iowa,Data Science,15-2051,Data Scientists,96980,98550,2270
+2023,20,Kansas,Business Analytics,13-1111,Management Analysts,79720,87770,5300
+2023,20,Kansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61220,68920,8380
+2023,20,Kansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,102180,100410,5970
+2023,20,Kansas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,104690,119470,60
+2023,20,Kansas,Computer Science/Data Engineering,15-1242,Database Administrators,133200,117660,1070
+2023,20,Kansas,Computer Science/Data Engineering,15-1243,Database Architects,154090,161820,440
+2023,20,Kansas,AI/ML Engineering,15-1252,Software Developers,104250,110520,14490
+2023,20,Kansas,Computer Science/Data Engineering,15-1252,Software Developers,104250,110520,14490
+2023,20,Kansas,Statistics,15-2031,Operations Research Analysts,99990,95020,620
+2023,20,Kansas,Statistics,15-2041,Statisticians,99820,103530,90
+2023,20,Kansas,Data Science,15-2051,Data Scientists,101610,107000,
+2023,21,Kentucky,Business Analytics,13-1111,Management Analysts,82130,90240,4230
+2023,21,Kentucky,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59630,64600,5830
+2023,21,Kentucky,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,80980,83040,4120
+2023,21,Kentucky,AI/ML Engineering,15-1221,Computer and Information Research Scientists,116250,107290,210
+2023,21,Kentucky,Computer Science/Data Engineering,15-1242,Database Administrators,78810,83570,690
+2023,21,Kentucky,Computer Science/Data Engineering,15-1243,Database Architects,88930,99270,690
+2023,21,Kentucky,AI/ML Engineering,15-1252,Software Developers,103030,106070,5800
+2023,21,Kentucky,Computer Science/Data Engineering,15-1252,Software Developers,103030,106070,5800
+2023,21,Kentucky,Statistics,15-2031,Operations Research Analysts,78000,81970,1090
+2023,21,Kentucky,Statistics,15-2041,Statisticians,95940,100220,100
+2023,21,Kentucky,Data Science,15-2051,Data Scientists,88800,96290,2080
+2023,22,Louisiana,Business Analytics,13-1111,Management Analysts,93870,104940,3540
+2023,22,Louisiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57620,62140,4030
+2023,22,Louisiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82660,85530,2430
+2023,22,Louisiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,112110,106560,110
+2023,22,Louisiana,Computer Science/Data Engineering,15-1242,Database Administrators,93100,91760,360
+2023,22,Louisiana,Computer Science/Data Engineering,15-1243,Database Architects,103600,103870,110
+2023,22,Louisiana,AI/ML Engineering,15-1252,Software Developers,104840,128980,3960
+2023,22,Louisiana,Computer Science/Data Engineering,15-1252,Software Developers,104840,128980,3960
+2023,22,Louisiana,Statistics,15-2031,Operations Research Analysts,67480,73900,460
+2023,22,Louisiana,Statistics,15-2041,Statisticians,69100,75890,80
+2023,22,Louisiana,Data Science,15-2051,Data Scientists,68730,74330,920
+2023,23,Maine,Business Analytics,13-1111,Management Analysts,77730,89970,1960
+2023,23,Maine,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,73390,73280,1870
+2023,23,Maine,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81810,89380,2420
+2023,23,Maine,Computer Science/Data Engineering,15-1242,Database Administrators,95320,97060,240
+2023,23,Maine,Computer Science/Data Engineering,15-1243,Database Architects,120790,118990,100
+2023,23,Maine,AI/ML Engineering,15-1252,Software Developers,113190,117150,3220
+2023,23,Maine,Computer Science/Data Engineering,15-1252,Software Developers,113190,117150,3220
+2023,23,Maine,Statistics,15-2031,Operations Research Analysts,93700,97810,360
+2023,23,Maine,Statistics,15-2041,Statisticians,81060,89610,30
+2023,23,Maine,Data Science,15-2051,Data Scientists,99960,107370,710
+2023,24,Maryland,Business Analytics,13-1111,Management Analysts,116020,117360,21070
+2023,24,Maryland,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,71330,77220,13560
+2023,24,Maryland,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,111100,118460,13800
+2023,24,Maryland,AI/ML Engineering,15-1221,Computer and Information Research Scientists,145600,142570,2310
+2023,24,Maryland,Computer Science/Data Engineering,15-1242,Database Administrators,113810,117750,1790
+2023,24,Maryland,Computer Science/Data Engineering,15-1243,Database Architects,139510,150590,710
+2023,24,Maryland,AI/ML Engineering,15-1252,Software Developers,138050,150740,30700
+2023,24,Maryland,Computer Science/Data Engineering,15-1252,Software Developers,138050,150740,30700
+2023,24,Maryland,Statistics,15-2031,Operations Research Analysts,111080,112450,3730
+2023,24,Maryland,Statistics,15-2041,Statisticians,123200,127170,3020
+2023,24,Maryland,Data Science,15-2051,Data Scientists,125460,126020,2170
+2023,25,Massachusetts,Business Analytics,13-1111,Management Analysts,111550,134350,30900
+2023,25,Massachusetts,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,82040,92260,27020
+2023,25,Massachusetts,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,111890,124870,14070
+2023,25,Massachusetts,AI/ML Engineering,15-1221,Computer and Information Research Scientists,170020,178820,
+2023,25,Massachusetts,Computer Science/Data Engineering,15-1242,Database Administrators,121520,117870,2220
+2023,25,Massachusetts,Computer Science/Data Engineering,15-1243,Database Architects,152030,152850,1650
+2023,25,Massachusetts,AI/ML Engineering,15-1252,Software Developers,137130,146580,59960
+2023,25,Massachusetts,Computer Science/Data Engineering,15-1252,Software Developers,137130,146580,59960
+2023,25,Massachusetts,Statistics,15-2031,Operations Research Analysts,90160,96930,3820
+2023,25,Massachusetts,Statistics,15-2041,Statisticians,84820,105360,2130
+2023,25,Massachusetts,Data Science,15-2051,Data Scientists,121560,125100,7400
+2023,26,Michigan,Business Analytics,13-1111,Management Analysts,84840,98520,15390
+2023,26,Michigan,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64940,73610,22570
+2023,26,Michigan,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100100,101510,15000
+2023,26,Michigan,AI/ML Engineering,15-1221,Computer and Information Research Scientists,112330,119800,270
+2023,26,Michigan,Computer Science/Data Engineering,15-1242,Database Administrators,97760,92980,1460
+2023,26,Michigan,Computer Science/Data Engineering,15-1243,Database Architects,122700,114390,1290
+2023,26,Michigan,AI/ML Engineering,15-1252,Software Developers,103830,108080,44140
+2023,26,Michigan,Computer Science/Data Engineering,15-1252,Software Developers,103830,108080,44140
+2023,26,Michigan,Statistics,15-2031,Operations Research Analysts,91610,100240,1280
+2023,26,Michigan,Statistics,15-2041,Statisticians,106390,108720,640
+2023,26,Michigan,Data Science,15-2051,Data Scientists,90750,96500,4700
+2023,27,Minnesota,Business Analytics,13-1111,Management Analysts,92310,102380,20780
+2023,27,Minnesota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,78970,85410,22940
+2023,27,Minnesota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106930,108940,12180
+2023,27,Minnesota,AI/ML Engineering,15-1221,Computer and Information Research Scientists,116810,130440,50
+2023,27,Minnesota,Computer Science/Data Engineering,15-1242,Database Administrators,96940,101260,1140
+2023,27,Minnesota,Computer Science/Data Engineering,15-1243,Database Architects,130350,128380,790
+2023,27,Minnesota,AI/ML Engineering,15-1252,Software Developers,125380,120210,38570
+2023,27,Minnesota,Computer Science/Data Engineering,15-1252,Software Developers,125380,120210,38570
+2023,27,Minnesota,Statistics,15-2031,Operations Research Analysts,99010,102740,1470
+2023,27,Minnesota,Statistics,15-2041,Statisticians,88750,95980,600
+2023,27,Minnesota,Data Science,15-2051,Data Scientists,114630,118760,2240
+2023,28,Mississippi,Business Analytics,13-1111,Management Analysts,66540,83720,3350
+2023,28,Mississippi,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,52740,57760,2480
+2023,28,Mississippi,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,80020,87750,1610
+2023,28,Mississippi,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111110,111450,290
+2023,28,Mississippi,Computer Science/Data Engineering,15-1242,Database Administrators,79580,82270,200
+2023,28,Mississippi,Computer Science/Data Engineering,15-1243,Database Architects,71950,79750,
+2023,28,Mississippi,AI/ML Engineering,15-1252,Software Developers,85190,89940,3090
+2023,28,Mississippi,Computer Science/Data Engineering,15-1252,Software Developers,85190,89940,3090
+2023,28,Mississippi,Statistics,15-2031,Operations Research Analysts,83770,84570,160
+2023,28,Mississippi,Statistics,15-2041,Statisticians,52390,60860,70
+2023,28,Mississippi,Data Science,15-2051,Data Scientists,62600,72220,290
+2023,29,Missouri,Business Analytics,13-1111,Management Analysts,83890,103400,10370
+2023,29,Missouri,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63590,73200,14030
+2023,29,Missouri,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,96660,97650,7860
+2023,29,Missouri,AI/ML Engineering,15-1221,Computer and Information Research Scientists,108380,133200,510
+2023,29,Missouri,Computer Science/Data Engineering,15-1242,Database Administrators,81630,90660,1640
+2023,29,Missouri,Computer Science/Data Engineering,15-1243,Database Architects,102810,106560,1930
+2023,29,Missouri,AI/ML Engineering,15-1252,Software Developers,104600,107980,18450
+2023,29,Missouri,Computer Science/Data Engineering,15-1252,Software Developers,104600,107980,18450
+2023,29,Missouri,Statistics,15-2031,Operations Research Analysts,53600,63640,3070
+2023,29,Missouri,Statistics,15-2041,Statisticians,59620,74870,530
+2023,29,Missouri,Data Science,15-2051,Data Scientists,81410,88210,3850
+2023,30,Montana,Business Analytics,13-1111,Management Analysts,78660,87610,1130
+2023,30,Montana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,69380,74500,1740
+2023,30,Montana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82020,82260,580
+2023,30,Montana,Computer Science/Data Engineering,15-1242,Database Administrators,80480,83750,270
+2023,30,Montana,Computer Science/Data Engineering,15-1243,Database Architects,112580,117220,50
+2023,30,Montana,AI/ML Engineering,15-1252,Software Developers,109270,131380,2370
+2023,30,Montana,Computer Science/Data Engineering,15-1252,Software Developers,109270,131380,2370
+2023,30,Montana,Statistics,15-2031,Operations Research Analysts,70230,77970,150
+2023,30,Montana,Statistics,15-2041,Statisticians,81550,83670,40
+2023,30,Montana,Data Science,15-2051,Data Scientists,94420,101350,90
+2023,31,Nebraska,Business Analytics,13-1111,Management Analysts,79990,89650,2800
+2023,31,Nebraska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60570,64980,3690
+2023,31,Nebraska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82710,90330,3570
+2023,31,Nebraska,AI/ML Engineering,15-1221,Computer and Information Research Scientists,101990,107030,30
+2023,31,Nebraska,Computer Science/Data Engineering,15-1242,Database Administrators,85140,87940,570
+2023,31,Nebraska,Computer Science/Data Engineering,15-1243,Database Architects,129110,130230,700
+2023,31,Nebraska,AI/ML Engineering,15-1252,Software Developers,109800,112340,8270
+2023,31,Nebraska,Computer Science/Data Engineering,15-1252,Software Developers,109800,112340,8270
+2023,31,Nebraska,Statistics,15-2031,Operations Research Analysts,85000,90540,280
+2023,31,Nebraska,Statistics,15-2041,Statisticians,82300,85010,150
+2023,31,Nebraska,Data Science,15-2051,Data Scientists,92640,94960,1780
+2023,32,Nevada,Business Analytics,13-1111,Management Analysts,82360,93930,3770
+2023,32,Nevada,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63280,68970,4290
+2023,32,Nevada,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100780,107380,1920
+2023,32,Nevada,AI/ML Engineering,15-1221,Computer and Information Research Scientists,126840,124620,60
+2023,32,Nevada,Computer Science/Data Engineering,15-1242,Database Administrators,81850,86080,560
+2023,32,Nevada,Computer Science/Data Engineering,15-1243,Database Architects,125180,130500,300
+2023,32,Nevada,AI/ML Engineering,15-1252,Software Developers,125590,133490,5030
+2023,32,Nevada,Computer Science/Data Engineering,15-1252,Software Developers,125590,133490,5030
+2023,32,Nevada,Statistics,15-2031,Operations Research Analysts,79410,86390,310
+2023,32,Nevada,Statistics,15-2041,Statisticians,65880,75600,70
+2023,32,Nevada,Data Science,15-2051,Data Scientists,86030,96800,980
+2023,33,New Hampshire,Business Analytics,13-1111,Management Analysts,102840,119500,2630
+2023,33,New Hampshire,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63000,73590,5410
+2023,33,New Hampshire,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105850,111470,2450
+2023,33,New Hampshire,AI/ML Engineering,15-1221,Computer and Information Research Scientists,131540,137070,150
+2023,33,New Hampshire,Computer Science/Data Engineering,15-1242,Database Administrators,103580,103610,290
+2023,33,New Hampshire,Computer Science/Data Engineering,15-1243,Database Architects,124430,123150,250
+2023,33,New Hampshire,AI/ML Engineering,15-1252,Software Developers,128860,128440,9250
+2023,33,New Hampshire,Computer Science/Data Engineering,15-1252,Software Developers,128860,128440,9250
+2023,33,New Hampshire,Statistics,15-2031,Operations Research Analysts,85100,91500,340
+2023,33,New Hampshire,Statistics,15-2041,Statisticians,107320,108580,50
+2023,33,New Hampshire,Data Science,15-2051,Data Scientists,92670,97330,780
+2023,34,New Jersey,Business Analytics,13-1111,Management Analysts,103770,122840,19300
+2023,34,New Jersey,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,83490,93100,21120
+2023,34,New Jersey,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,123190,126240,14970
+2023,34,New Jersey,AI/ML Engineering,15-1221,Computer and Information Research Scientists,129950,134260,1200
+2023,34,New Jersey,Computer Science/Data Engineering,15-1242,Database Administrators,119450,122460,2080
+2023,34,New Jersey,Computer Science/Data Engineering,15-1243,Database Architects,162410,158930,1290
+2023,34,New Jersey,AI/ML Engineering,15-1252,Software Developers,131680,134970,54570
+2023,34,New Jersey,Computer Science/Data Engineering,15-1252,Software Developers,131680,134970,54570
+2023,34,New Jersey,Statistics,15-2031,Operations Research Analysts,102140,108990,3890
+2023,34,New Jersey,Statistics,15-2041,Statisticians,119250,122370,430
+2023,34,New Jersey,Data Science,15-2051,Data Scientists,130570,134140,4340
+2023,35,New Mexico,Business Analytics,13-1111,Management Analysts,81620,85070,3090
+2023,35,New Mexico,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,56880,60630,1980
+2023,35,New Mexico,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,88440,95890,2480
+2023,35,New Mexico,AI/ML Engineering,15-1221,Computer and Information Research Scientists,172190,170070,
+2023,35,New Mexico,Computer Science/Data Engineering,15-1242,Database Administrators,90610,96950,580
+2023,35,New Mexico,Computer Science/Data Engineering,15-1243,Database Architects,126000,118590,180
+2023,35,New Mexico,AI/ML Engineering,15-1252,Software Developers,126560,125860,4270
+2023,35,New Mexico,Computer Science/Data Engineering,15-1252,Software Developers,126560,125860,4270
+2023,35,New Mexico,Statistics,15-2031,Operations Research Analysts,69760,84690,480
+2023,35,New Mexico,Statistics,15-2041,Statisticians,50620,65210,240
+2023,35,New Mexico,Data Science,15-2051,Data Scientists,87020,88720,380
+2023,36,New York,Business Analytics,13-1111,Management Analysts,106100,126450,59640
+2023,36,New York,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,86060,96200,83450
+2023,36,New York,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,107510,116560,19760
+2023,36,New York,AI/ML Engineering,15-1221,Computer and Information Research Scientists,151470,158440,740
+2023,36,New York,Computer Science/Data Engineering,15-1242,Database Administrators,98110,104230,4390
+2023,36,New York,Computer Science/Data Engineering,15-1243,Database Architects,142230,144140,3780
+2023,36,New York,AI/ML Engineering,15-1252,Software Developers,145470,150020,105460
+2023,36,New York,Computer Science/Data Engineering,15-1252,Software Developers,145470,150020,105460
+2023,36,New York,Statistics,15-2031,Operations Research Analysts,99480,111860,5980
+2023,36,New York,Statistics,15-2041,Statisticians,118950,140860,1110
+2023,36,New York,Data Science,15-2051,Data Scientists,128890,134830,16390
+2023,37,North Carolina,Business Analytics,13-1111,Management Analysts,100570,109220,21490
+2023,37,North Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,74910,82950,28020
+2023,37,North Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105770,111580,26220
+2023,37,North Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,105180,122750,370
+2023,37,North Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,104990,104480,2480
+2023,37,North Carolina,Computer Science/Data Engineering,15-1243,Database Architects,125860,122460,3330
+2023,37,North Carolina,AI/ML Engineering,15-1252,Software Developers,130620,130970,58620
+2023,37,North Carolina,Computer Science/Data Engineering,15-1252,Software Developers,130620,130970,58620
+2023,37,North Carolina,Statistics,15-2031,Operations Research Analysts,101190,99020,2270
+2023,37,North Carolina,Statistics,15-2041,Statisticians,109950,119280,1790
+2023,37,North Carolina,Data Science,15-2051,Data Scientists,126940,125950,6640
+2023,38,North Dakota,Business Analytics,13-1111,Management Analysts,85570,97190,720
+2023,38,North Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,58650,62870,1460
+2023,38,North Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,93880,100680,190
+2023,38,North Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,74350,82660,120
+2023,38,North Dakota,Computer Science/Data Engineering,15-1243,Database Architects,103730,106250,60
+2023,38,North Dakota,AI/ML Engineering,15-1252,Software Developers,100980,106870,1840
+2023,38,North Dakota,Computer Science/Data Engineering,15-1252,Software Developers,100980,106870,1840
+2023,38,North Dakota,Statistics,15-2031,Operations Research Analysts,82760,87970,160
+2023,38,North Dakota,Statistics,15-2041,Statisticians,73030,75670,50
+2023,38,North Dakota,Data Science,15-2051,Data Scientists,113620,102410,240
+2023,39,Ohio,Business Analytics,13-1111,Management Analysts,84080,95860,26160
+2023,39,Ohio,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65340,74000,26940
+2023,39,Ohio,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,95400,99260,16530
+2023,39,Ohio,AI/ML Engineering,15-1221,Computer and Information Research Scientists,123010,119540,170
+2023,39,Ohio,Computer Science/Data Engineering,15-1242,Database Administrators,94510,94860,1930
+2023,39,Ohio,Computer Science/Data Engineering,15-1243,Database Architects,127230,121620,1880
+2023,39,Ohio,AI/ML Engineering,15-1252,Software Developers,107560,112610,42250
+2023,39,Ohio,Computer Science/Data Engineering,15-1252,Software Developers,107560,112610,42250
+2023,39,Ohio,Statistics,15-2031,Operations Research Analysts,88930,93250,3440
+2023,39,Ohio,Statistics,15-2041,Statisticians,88170,88410,350
+2023,39,Ohio,Data Science,15-2051,Data Scientists,97070,97530,4660
+2023,40,Oklahoma,Business Analytics,13-1111,Management Analysts,82830,87360,4240
+2023,40,Oklahoma,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57820,67660,7230
+2023,40,Oklahoma,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99590,103460,3320
+2023,40,Oklahoma,AI/ML Engineering,15-1221,Computer and Information Research Scientists,90600,95430,490
+2023,40,Oklahoma,Computer Science/Data Engineering,15-1242,Database Administrators,76720,85550,780
+2023,40,Oklahoma,Computer Science/Data Engineering,15-1243,Database Architects,111070,119940,420
+2023,40,Oklahoma,AI/ML Engineering,15-1252,Software Developers,104030,111100,7670
+2023,40,Oklahoma,Computer Science/Data Engineering,15-1252,Software Developers,104030,111100,7670
+2023,40,Oklahoma,Statistics,15-2031,Operations Research Analysts,62380,63760,1520
+2023,40,Oklahoma,Statistics,15-2041,Statisticians,78270,84000,
+2023,40,Oklahoma,Data Science,15-2051,Data Scientists,83810,93020,2130
+2023,41,Oregon,Business Analytics,13-1111,Management Analysts,96080,98710,10510
+2023,41,Oregon,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77610,84170,11000
+2023,41,Oregon,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,112990,118410,4760
+2023,41,Oregon,AI/ML Engineering,15-1221,Computer and Information Research Scientists,160140,178790,790
+2023,41,Oregon,Computer Science/Data Engineering,15-1242,Database Administrators,98480,103070,910
+2023,41,Oregon,Computer Science/Data Engineering,15-1243,Database Architects,134980,132460,540
+2023,41,Oregon,AI/ML Engineering,15-1252,Software Developers,130000,131310,21650
+2023,41,Oregon,Computer Science/Data Engineering,15-1252,Software Developers,130000,131310,21650
+2023,41,Oregon,Statistics,15-2031,Operations Research Analysts,97060,99080,1850
+2023,41,Oregon,Statistics,15-2041,Statisticians,87920,87650,600
+2023,41,Oregon,Data Science,15-2051,Data Scientists,114910,124480,2640
+2023,42,Pennsylvania,Business Analytics,13-1111,Management Analysts,86790,98460,21410
+2023,42,Pennsylvania,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61210,68220,30820
+2023,42,Pennsylvania,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,83460,93040,19630
+2023,42,Pennsylvania,AI/ML Engineering,15-1221,Computer and Information Research Scientists,118870,147580,460
+2023,42,Pennsylvania,Computer Science/Data Engineering,15-1242,Database Administrators,97100,100160,2820
+2023,42,Pennsylvania,Computer Science/Data Engineering,15-1243,Database Architects,125790,121960,2290
+2023,42,Pennsylvania,AI/ML Engineering,15-1252,Software Developers,111910,117110,41300
+2023,42,Pennsylvania,Computer Science/Data Engineering,15-1252,Software Developers,111910,117110,41300
+2023,42,Pennsylvania,Statistics,15-2031,Operations Research Analysts,71440,82110,2420
+2023,42,Pennsylvania,Statistics,15-2041,Statisticians,83560,96810,2350
+2023,42,Pennsylvania,Data Science,15-2051,Data Scientists,97260,102370,7490
+2023,44,Rhode Island,Business Analytics,13-1111,Management Analysts,84990,114260,4050
+2023,44,Rhode Island,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77150,77760,3240
+2023,44,Rhode Island,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,107140,113490,1590
+2023,44,Rhode Island,AI/ML Engineering,15-1221,Computer and Information Research Scientists,122030,119640,460
+2023,44,Rhode Island,Computer Science/Data Engineering,15-1242,Database Administrators,110540,107670,280
+2023,44,Rhode Island,Computer Science/Data Engineering,15-1243,Database Architects,116980,118510,100
+2023,44,Rhode Island,AI/ML Engineering,15-1252,Software Developers,128990,135030,5460
+2023,44,Rhode Island,Computer Science/Data Engineering,15-1252,Software Developers,128990,135030,5460
+2023,44,Rhode Island,Statistics,15-2031,Operations Research Analysts,59390,77740,220
+2023,44,Rhode Island,Statistics,15-2041,Statisticians,88970,91120,40
+2023,44,Rhode Island,Data Science,15-2051,Data Scientists,128350,127380,900
+2023,45,South Carolina,Business Analytics,13-1111,Management Analysts,85430,96820,9070
+2023,45,South Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60230,67400,9740
+2023,45,South Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92990,102270,7720
+2023,45,South Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,114400,111350,470
+2023,45,South Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,95680,101420,790
+2023,45,South Carolina,Computer Science/Data Engineering,15-1243,Database Architects,130020,126340,850
+2023,45,South Carolina,AI/ML Engineering,15-1252,Software Developers,111130,116790,11810
+2023,45,South Carolina,Computer Science/Data Engineering,15-1252,Software Developers,111130,116790,11810
+2023,45,South Carolina,Statistics,15-2031,Operations Research Analysts,80270,86460,960
+2023,45,South Carolina,Statistics,15-2041,Statisticians,71760,77230,230
+2023,45,South Carolina,Data Science,15-2051,Data Scientists,95310,100790,2090
+2023,46,South Dakota,Business Analytics,13-1111,Management Analysts,79470,87200,2870
+2023,46,South Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61990,68990,1480
+2023,46,South Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92290,99350,1010
+2023,46,South Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,84300,83290,150
+2023,46,South Dakota,Computer Science/Data Engineering,15-1243,Database Architects,113410,116210,50
+2023,46,South Dakota,AI/ML Engineering,15-1252,Software Developers,82850,94500,2240
+2023,46,South Dakota,Computer Science/Data Engineering,15-1252,Software Developers,82850,94500,2240
+2023,46,South Dakota,Data Science,15-2051,Data Scientists,91460,97940,150
+2023,47,Tennessee,Business Analytics,13-1111,Management Analysts,83620,93870,9580
+2023,47,Tennessee,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63580,71910,12760
+2023,47,Tennessee,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94490,98630,8460
+2023,47,Tennessee,AI/ML Engineering,15-1221,Computer and Information Research Scientists,120090,145310,70
+2023,47,Tennessee,Computer Science/Data Engineering,15-1242,Database Administrators,107600,104490,1650
+2023,47,Tennessee,Computer Science/Data Engineering,15-1243,Database Architects,120000,119530,560
+2023,47,Tennessee,AI/ML Engineering,15-1252,Software Developers,110660,113410,16560
+2023,47,Tennessee,Computer Science/Data Engineering,15-1252,Software Developers,110660,113410,16560
+2023,47,Tennessee,Statistics,15-2031,Operations Research Analysts,70720,79310,1500
+2023,47,Tennessee,Statistics,15-2041,Statisticians,80850,89630,920
+2023,47,Tennessee,Data Science,15-2051,Data Scientists,92400,97710,2090
+2023,48,Texas,Business Analytics,13-1111,Management Analysts,95760,106600,50900
+2023,48,Texas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64690,75350,52200
+2023,48,Texas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,107200,115240,50680
+2023,48,Texas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,129690,139340,1580
+2023,48,Texas,Computer Science/Data Engineering,15-1242,Database Administrators,102010,100490,6900
+2023,48,Texas,Computer Science/Data Engineering,15-1243,Database Architects,138090,139570,5900
+2023,48,Texas,AI/ML Engineering,15-1252,Software Developers,127000,125890,138510
+2023,48,Texas,Computer Science/Data Engineering,15-1252,Software Developers,127000,125890,138510
+2023,48,Texas,Statistics,15-2031,Operations Research Analysts,86510,96300,11690
+2023,48,Texas,Statistics,15-2041,Statisticians,95600,103330,1220
+2023,48,Texas,Data Science,15-2051,Data Scientists,100100,109000,20560
+2023,49,Utah,Business Analytics,13-1111,Management Analysts,80220,86780,5460
+2023,49,Utah,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59890,65440,14020
+2023,49,Utah,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,90650,97020,2960
+2023,49,Utah,AI/ML Engineering,15-1221,Computer and Information Research Scientists,88610,99050,810
+2023,49,Utah,Computer Science/Data Engineering,15-1242,Database Administrators,92680,97700,650
+2023,49,Utah,Computer Science/Data Engineering,15-1243,Database Architects,149200,145400,2090
+2023,49,Utah,AI/ML Engineering,15-1252,Software Developers,116830,121260,25930
+2023,49,Utah,Computer Science/Data Engineering,15-1252,Software Developers,116830,121260,25930
+2023,49,Utah,Statistics,15-2031,Operations Research Analysts,80180,81620,1200
+2023,49,Utah,Statistics,15-2041,Statisticians,85810,88450,300
+2023,49,Utah,Data Science,15-2051,Data Scientists,97490,101780,3530
+2023,50,Vermont,Business Analytics,13-1111,Management Analysts,106680,125240,960
+2023,50,Vermont,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66560,70680,980
+2023,50,Vermont,Computer Science/Data Engineering,15-1242,Database Administrators,100120,99430,120
+2023,50,Vermont,Computer Science/Data Engineering,15-1243,Database Architects,129950,152540,70
+2023,50,Vermont,AI/ML Engineering,15-1252,Software Developers,112620,120030,1710
+2023,50,Vermont,Computer Science/Data Engineering,15-1252,Software Developers,112620,120030,1710
+2023,50,Vermont,Statistics,15-2031,Operations Research Analysts,81970,88690,110
+2023,50,Vermont,Statistics,15-2041,Statisticians,69830,74360,120
+2023,50,Vermont,Data Science,15-2051,Data Scientists,117500,124430,220
+2023,51,Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,75640,85780,24180
+2023,51,Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,108350,115820,23830
+2023,51,Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,143750,145860,2340
+2023,51,Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,102630,109790,4780
+2023,51,Virginia,Computer Science/Data Engineering,15-1243,Database Architects,138300,143300,4680
+2023,51,Virginia,AI/ML Engineering,15-1252,Software Developers,135040,139920,86680
+2023,51,Virginia,Computer Science/Data Engineering,15-1252,Software Developers,135040,139920,86680
+2023,51,Virginia,Statistics,15-2031,Operations Research Analysts,117350,121120,7720
+2023,51,Virginia,Statistics,15-2041,Statisticians,104060,109980,1090
+2023,51,Virginia,Data Science,15-2051,Data Scientists,136490,139080,4810
+2023,53,Washington,Business Analytics,13-1111,Management Analysts,108700,119390,25540
+2023,53,Washington,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,96960,106420,25200
+2023,53,Washington,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,128710,132760,20060
+2023,53,Washington,AI/ML Engineering,15-1221,Computer and Information Research Scientists,218180,202910,2940
+2023,53,Washington,Computer Science/Data Engineering,15-1242,Database Administrators,109490,116710,2050
+2023,53,Washington,Computer Science/Data Engineering,15-1243,Database Architects,144910,154430,3080
+2023,53,Washington,AI/ML Engineering,15-1252,Software Developers,162390,159990,89110
+2023,53,Washington,Computer Science/Data Engineering,15-1252,Software Developers,162390,159990,89110
+2023,53,Washington,Statistics,15-2031,Operations Research Analysts,93740,102840,2950
+2023,53,Washington,Statistics,15-2041,Statisticians,112520,116630,2820
+2023,53,Washington,Data Science,15-2051,Data Scientists,132620,148730,5640
+2023,54,West Virginia,Business Analytics,13-1111,Management Analysts,82830,93020,1550
+2023,54,West Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,49610,57040,1370
+2023,54,West Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98090,97420,1190
+2023,54,West Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,167480,180940,50
+2023,54,West Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,64830,74570,230
+2023,54,West Virginia,Computer Science/Data Engineering,15-1243,Database Architects,72260,103550,90
+2023,54,West Virginia,AI/ML Engineering,15-1252,Software Developers,81380,94080,1890
+2023,54,West Virginia,Computer Science/Data Engineering,15-1252,Software Developers,81380,94080,1890
+2023,54,West Virginia,Statistics,15-2031,Operations Research Analysts,61860,70770,230
+2023,54,West Virginia,Statistics,15-2041,Statisticians,69360,77080,80
+2023,54,West Virginia,Data Science,15-2051,Data Scientists,67660,94330,180
+2023,55,Wisconsin,Business Analytics,13-1111,Management Analysts,99630,109660,13160
+2023,55,Wisconsin,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62250,67550,13920
+2023,55,Wisconsin,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,89980,96220,8460
+2023,55,Wisconsin,AI/ML Engineering,15-1221,Computer and Information Research Scientists,150700,130800,40
+2023,55,Wisconsin,Computer Science/Data Engineering,15-1242,Database Administrators,91520,95840,1110
+2023,55,Wisconsin,Computer Science/Data Engineering,15-1243,Database Architects,134020,130180,410
+2023,55,Wisconsin,AI/ML Engineering,15-1252,Software Developers,102660,107500,21800
+2023,55,Wisconsin,Computer Science/Data Engineering,15-1252,Software Developers,102660,107500,21800
+2023,55,Wisconsin,Statistics,15-2031,Operations Research Analysts,78320,81750,3570
+2023,55,Wisconsin,Statistics,15-2041,Statisticians,80470,92070,230
+2023,55,Wisconsin,Data Science,15-2051,Data Scientists,101850,105250,3090
+2023,56,Wyoming,Business Analytics,13-1111,Management Analysts,105060,126840,530
+2023,56,Wyoming,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,52600,58740,980
+2023,56,Wyoming,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106540,111340,240
+2023,56,Wyoming,Computer Science/Data Engineering,15-1242,Database Administrators,79430,82620,120
+2023,56,Wyoming,Computer Science/Data Engineering,15-1243,Database Architects,57610,61130,120
+2023,56,Wyoming,AI/ML Engineering,15-1252,Software Developers,137860,127790,670
+2023,56,Wyoming,Computer Science/Data Engineering,15-1252,Software Developers,137860,127790,670
+2023,56,Wyoming,Statistics,15-2041,Statisticians,82780,107080,40
+2023,56,Wyoming,Data Science,15-2051,Data Scientists,130370,125330,
+2024,01,Alabama,Business Analytics,13-1111,Management Analysts,102480,111280,4980
+2024,01,Alabama,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55390,66840,8780
+2024,01,Alabama,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,103730,112430,6830
+2024,01,Alabama,AI/ML Engineering,15-1221,Computer and Information Research Scientists,108180,109020,540
+2024,01,Alabama,Computer Science/Data Engineering,15-1242,Database Administrators,88560,92930,1990
+2024,01,Alabama,Computer Science/Data Engineering,15-1243,Database Architects,111330,117510,310
+2024,01,Alabama,AI/ML Engineering,15-1252,Software Developers,113020,117380,18020
+2024,01,Alabama,Computer Science/Data Engineering,15-1252,Software Developers,113020,117380,18020
+2024,01,Alabama,Statistics,15-2031,Operations Research Analysts,117540,118370,500
+2024,01,Alabama,Statistics,15-2041,Statisticians,67490,76870,200
+2024,01,Alabama,Data Science,15-2051,Data Scientists,105410,102970,1620
+2024,02,Alaska,Business Analytics,13-1111,Management Analysts,104770,107310,420
+2024,02,Alaska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62960,68720,410
+2024,02,Alaska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,84800,91780,490
+2024,02,Alaska,Computer Science/Data Engineering,15-1242,Database Administrators,93180,96600,90
+2024,02,Alaska,Computer Science/Data Engineering,15-1243,Database Architects,113800,111570,40
+2024,02,Alaska,AI/ML Engineering,15-1252,Software Developers,119600,132940,430
+2024,02,Alaska,Computer Science/Data Engineering,15-1252,Software Developers,119600,132940,430
+2024,02,Alaska,Statistics,15-2031,Operations Research Analysts,99960,102840,60
+2024,02,Alaska,Statistics,15-2041,Statisticians,83780,90500,60
+2024,02,Alaska,Data Science,15-2051,Data Scientists,77400,88690,210
+2024,04,Arizona,Business Analytics,13-1111,Management Analysts,89520,117750,18110
+2024,04,Arizona,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66750,75390,18020
+2024,04,Arizona,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101730,106930,10010
+2024,04,Arizona,AI/ML Engineering,15-1221,Computer and Information Research Scientists,128520,158100,420
+2024,04,Arizona,Computer Science/Data Engineering,15-1242,Database Administrators,96320,97340,1330
+2024,04,Arizona,Computer Science/Data Engineering,15-1243,Database Architects,130620,135080,850
+2024,04,Arizona,AI/ML Engineering,15-1252,Software Developers,128690,133140,35650
+2024,04,Arizona,Computer Science/Data Engineering,15-1252,Software Developers,128690,133140,35650
+2024,04,Arizona,Statistics,15-2031,Operations Research Analysts,83500,86510,2170
+2024,04,Arizona,Statistics,15-2041,Statisticians,91320,102090,360
+2024,04,Arizona,Data Science,15-2051,Data Scientists,106080,112460,4080
+2024,05,Arkansas,Business Analytics,13-1111,Management Analysts,72550,80610,4530
+2024,05,Arkansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64830,75160,6420
+2024,05,Arkansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,72540,70300,3600
+2024,05,Arkansas,Computer Science/Data Engineering,15-1242,Database Administrators,79710,82780,600
+2024,05,Arkansas,Computer Science/Data Engineering,15-1243,Database Architects,101000,109380,330
+2024,05,Arkansas,AI/ML Engineering,15-1252,Software Developers,96820,100380,6390
+2024,05,Arkansas,Computer Science/Data Engineering,15-1252,Software Developers,96820,100380,6390
+2024,05,Arkansas,Statistics,15-2031,Operations Research Analysts,75650,75670,140
+2024,05,Arkansas,Data Science,15-2051,Data Scientists,104320,104560,470
+2024,06,California,Business Analytics,13-1111,Management Analysts,102110,120410,136200
+2024,06,California,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,92770,106780,108460
+2024,06,California,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,127660,132940,55460
+2024,06,California,AI/ML Engineering,15-1221,Computer and Information Research Scientists,156290,163890,8570
+2024,06,California,Computer Science/Data Engineering,15-1242,Database Administrators,111090,119060,8360
+2024,06,California,Computer Science/Data Engineering,15-1243,Database Architects,159130,162820,5850
+2024,06,California,AI/ML Engineering,15-1252,Software Developers,170910,185750,292630
+2024,06,California,Computer Science/Data Engineering,15-1252,Software Developers,170910,185750,292630
+2024,06,California,Statistics,15-2031,Operations Research Analysts,96920,108220,11030
+2024,06,California,Statistics,15-2041,Statisticians,127550,130530,2810
+2024,06,California,Data Science,15-2051,Data Scientists,136800,155450,36850
+2024,08,Colorado,Business Analytics,13-1111,Management Analysts,104990,116450,14940
+2024,08,Colorado,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,80670,93310,30000
+2024,08,Colorado,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,124010,127060,7130
+2024,08,Colorado,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111930,133180,
+2024,08,Colorado,Computer Science/Data Engineering,15-1242,Database Administrators,119940,115970,1400
+2024,08,Colorado,Computer Science/Data Engineering,15-1243,Database Architects,151460,152940,2140
+2024,08,Colorado,AI/ML Engineering,15-1252,Software Developers,134540,147750,48980
+2024,08,Colorado,Computer Science/Data Engineering,15-1252,Software Developers,134540,147750,48980
+2024,08,Colorado,Statistics,15-2031,Operations Research Analysts,104560,109360,910
+2024,08,Colorado,Statistics,15-2041,Statisticians,97310,105110,920
+2024,08,Colorado,Data Science,15-2051,Data Scientists,106500,118250,6750
+2024,09,Connecticut,Business Analytics,13-1111,Management Analysts,103740,120670,8570
+2024,09,Connecticut,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,75320,80340,9010
+2024,09,Connecticut,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105860,109000,6050
+2024,09,Connecticut,AI/ML Engineering,15-1221,Computer and Information Research Scientists,128180,129200,
+2024,09,Connecticut,Computer Science/Data Engineering,15-1242,Database Administrators,101990,103400,770
+2024,09,Connecticut,Computer Science/Data Engineering,15-1243,Database Architects,147400,147910,700
+2024,09,Connecticut,AI/ML Engineering,15-1252,Software Developers,130870,136530,16490
+2024,09,Connecticut,Computer Science/Data Engineering,15-1252,Software Developers,130870,136530,16490
+2024,09,Connecticut,Statistics,15-2031,Operations Research Analysts,99210,96720,1020
+2024,09,Connecticut,Statistics,15-2041,Statisticians,95680,100840,320
+2024,09,Connecticut,Data Science,15-2051,Data Scientists,109960,120270,1630
+2024,10,Delaware,Business Analytics,13-1111,Management Analysts,97030,107720,4030
+2024,10,Delaware,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,98650,101290,3220
+2024,10,Delaware,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,104070,110640,2940
+2024,10,Delaware,Computer Science/Data Engineering,15-1242,Database Administrators,100240,105850,730
+2024,10,Delaware,Computer Science/Data Engineering,15-1243,Database Architects,146430,150060,
+2024,10,Delaware,AI/ML Engineering,15-1252,Software Developers,135160,136170,3850
+2024,10,Delaware,Computer Science/Data Engineering,15-1252,Software Developers,135160,136170,3850
+2024,10,Delaware,Statistics,15-2031,Operations Research Analysts,101210,103380,600
+2024,10,Delaware,Statistics,15-2041,Statisticians,126640,124240,90
+2024,11,District of Columbia,Business Analytics,13-1111,Management Analysts,125500,127540,20330
+2024,11,District of Columbia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,83340,99870,5570
+2024,11,District of Columbia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,114110,123720,1590
+2024,11,District of Columbia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,153630,149800,330
+2024,11,District of Columbia,Computer Science/Data Engineering,15-1242,Database Administrators,128440,120470,550
+2024,11,District of Columbia,Computer Science/Data Engineering,15-1243,Database Architects,157080,158550,800
+2024,11,District of Columbia,AI/ML Engineering,15-1252,Software Developers,136040,143810,8250
+2024,11,District of Columbia,Computer Science/Data Engineering,15-1252,Software Developers,136040,143810,8250
+2024,11,District of Columbia,Statistics,15-2031,Operations Research Analysts,115980,123890,2190
+2024,11,District of Columbia,Statistics,15-2041,Statisticians,133680,132570,610
+2024,11,District of Columbia,Data Science,15-2051,Data Scientists,137120,148170,3580
+2024,12,Florida,Business Analytics,13-1111,Management Analysts,83130,98630,74030
+2024,12,Florida,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77490,82650,54090
+2024,12,Florida,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100770,106640,35660
+2024,12,Florida,AI/ML Engineering,15-1221,Computer and Information Research Scientists,117250,122610,1090
+2024,12,Florida,Computer Science/Data Engineering,15-1242,Database Administrators,97900,102900,4080
+2024,12,Florida,Computer Science/Data Engineering,15-1243,Database Architects,133040,138280,2040
+2024,12,Florida,AI/ML Engineering,15-1252,Software Developers,126550,128290,82610
+2024,12,Florida,Computer Science/Data Engineering,15-1252,Software Developers,126550,128290,82610
+2024,12,Florida,Statistics,15-2031,Operations Research Analysts,77670,84420,8230
+2024,12,Florida,Statistics,15-2041,Statisticians,104160,116860,620
+2024,12,Florida,Data Science,15-2051,Data Scientists,105820,117670,9480
+2024,13,Georgia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,75490,83680,26000
+2024,13,Georgia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,103380,106610,12200
+2024,13,Georgia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,89270,98640,700
+2024,13,Georgia,Computer Science/Data Engineering,15-1242,Database Administrators,106100,105590,3020
+2024,13,Georgia,Computer Science/Data Engineering,15-1243,Database Architects,135280,141590,2930
+2024,13,Georgia,AI/ML Engineering,15-1252,Software Developers,128920,128310,47350
+2024,13,Georgia,Computer Science/Data Engineering,15-1252,Software Developers,128920,128310,47350
+2024,13,Georgia,Statistics,15-2031,Operations Research Analysts,73890,81560,4450
+2024,13,Georgia,Statistics,15-2041,Statisticians,108280,114320,550
+2024,13,Georgia,Data Science,15-2051,Data Scientists,102630,111020,7730
+2024,15,Hawaii,Business Analytics,13-1111,Management Analysts,93660,98350,2600
+2024,15,Hawaii,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65870,69170,1520
+2024,15,Hawaii,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,86700,92210,1860
+2024,15,Hawaii,AI/ML Engineering,15-1221,Computer and Information Research Scientists,140150,140140,90
+2024,15,Hawaii,Computer Science/Data Engineering,15-1242,Database Administrators,93400,97380,110
+2024,15,Hawaii,Computer Science/Data Engineering,15-1243,Database Architects,149500,150190,70
+2024,15,Hawaii,AI/ML Engineering,15-1252,Software Developers,119880,124960,1940
+2024,15,Hawaii,Computer Science/Data Engineering,15-1252,Software Developers,119880,124960,1940
+2024,15,Hawaii,Statistics,15-2031,Operations Research Analysts,97630,100090,110
+2024,15,Hawaii,Statistics,15-2041,Statisticians,76810,84230,90
+2024,15,Hawaii,Data Science,15-2051,Data Scientists,123880,124530,240
+2024,16,Idaho,Business Analytics,13-1111,Management Analysts,81590,95070,2740
+2024,16,Idaho,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59010,64940,3390
+2024,16,Idaho,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,68810,76030,2230
+2024,16,Idaho,AI/ML Engineering,15-1221,Computer and Information Research Scientists,161130,162410,
+2024,16,Idaho,Computer Science/Data Engineering,15-1242,Database Administrators,78780,88440,160
+2024,16,Idaho,Computer Science/Data Engineering,15-1243,Database Architects,126030,130240,350
+2024,16,Idaho,AI/ML Engineering,15-1252,Software Developers,107900,125460,4960
+2024,16,Idaho,Computer Science/Data Engineering,15-1252,Software Developers,107900,125460,4960
+2024,16,Idaho,Statistics,15-2031,Operations Research Analysts,77460,86030,500
+2024,16,Idaho,Data Science,15-2051,Data Scientists,109340,120410,980
+2024,17,Illinois,Business Analytics,13-1111,Management Analysts,110370,123900,44010
+2024,17,Illinois,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,72840,80300,35350
+2024,17,Illinois,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,95920,96560,22350
+2024,17,Illinois,AI/ML Engineering,15-1221,Computer and Information Research Scientists,135120,129370,350
+2024,17,Illinois,Computer Science/Data Engineering,15-1242,Database Administrators,101070,107750,2290
+2024,17,Illinois,Computer Science/Data Engineering,15-1243,Database Architects,134490,136370,1460
+2024,17,Illinois,AI/ML Engineering,15-1252,Software Developers,127770,127030,54490
+2024,17,Illinois,Computer Science/Data Engineering,15-1252,Software Developers,127770,127030,54490
+2024,17,Illinois,Statistics,15-2031,Operations Research Analysts,102750,110230,5020
+2024,17,Illinois,Statistics,15-2041,Statisticians,116860,121380,490
+2024,17,Illinois,Data Science,15-2051,Data Scientists,113490,119010,7390
+2024,18,Indiana,Business Analytics,13-1111,Management Analysts,89990,102060,10880
+2024,18,Indiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,63380,71760,14780
+2024,18,Indiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,96470,100990,9540
+2024,18,Indiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,83590,90620,700
+2024,18,Indiana,Computer Science/Data Engineering,15-1242,Database Administrators,83600,85480,1180
+2024,18,Indiana,Computer Science/Data Engineering,15-1243,Database Architects,133150,132150,670
+2024,18,Indiana,AI/ML Engineering,15-1252,Software Developers,103570,107610,12690
+2024,18,Indiana,Computer Science/Data Engineering,15-1252,Software Developers,103570,107610,12690
+2024,18,Indiana,Statistics,15-2031,Operations Research Analysts,84150,92040,1660
+2024,18,Indiana,Statistics,15-2041,Statisticians,113030,110060,240
+2024,18,Indiana,Data Science,15-2051,Data Scientists,84050,92620,3120
+2024,19,Iowa,Business Analytics,13-1111,Management Analysts,82230,88840,4980
+2024,19,Iowa,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67300,75600,8290
+2024,19,Iowa,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,91670,93330,4490
+2024,19,Iowa,Computer Science/Data Engineering,15-1242,Database Administrators,97690,101500,380
+2024,19,Iowa,Computer Science/Data Engineering,15-1243,Database Architects,131370,124910,280
+2024,19,Iowa,AI/ML Engineering,15-1252,Software Developers,109850,116000,9840
+2024,19,Iowa,Computer Science/Data Engineering,15-1252,Software Developers,109850,116000,9840
+2024,19,Iowa,Statistics,15-2031,Operations Research Analysts,78140,89480,350
+2024,19,Iowa,Statistics,15-2041,Statisticians,86160,90270,280
+2024,19,Iowa,Data Science,15-2051,Data Scientists,97980,97300,2330
+2024,20,Kansas,Business Analytics,13-1111,Management Analysts,81130,88230,5670
+2024,20,Kansas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62230,71410,8340
+2024,20,Kansas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,97300,102220,4090
+2024,20,Kansas,Computer Science/Data Engineering,15-1242,Database Administrators,112740,118250,560
+2024,20,Kansas,Computer Science/Data Engineering,15-1243,Database Architects,129060,124980,390
+2024,20,Kansas,AI/ML Engineering,15-1252,Software Developers,106660,112900,15850
+2024,20,Kansas,Computer Science/Data Engineering,15-1252,Software Developers,106660,112900,15850
+2024,20,Kansas,Statistics,15-2031,Operations Research Analysts,99740,99860,550
+2024,20,Kansas,Statistics,15-2041,Statisticians,93330,101930,50
+2024,20,Kansas,Data Science,15-2051,Data Scientists,110320,107300,340
+2024,21,Kentucky,Business Analytics,13-1111,Management Analysts,85290,93360,4190
+2024,21,Kentucky,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59420,66330,5310
+2024,21,Kentucky,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,81270,89100,4700
+2024,21,Kentucky,AI/ML Engineering,15-1221,Computer and Information Research Scientists,82860,94160,90
+2024,21,Kentucky,Computer Science/Data Engineering,15-1242,Database Administrators,83980,86490,770
+2024,21,Kentucky,Computer Science/Data Engineering,15-1243,Database Architects,102560,110400,510
+2024,21,Kentucky,AI/ML Engineering,15-1252,Software Developers,106200,114200,7070
+2024,21,Kentucky,Computer Science/Data Engineering,15-1252,Software Developers,106200,114200,7070
+2024,21,Kentucky,Statistics,15-2031,Operations Research Analysts,81760,88980,920
+2024,21,Kentucky,Statistics,15-2041,Statisticians,103400,107160,90
+2024,21,Kentucky,Data Science,15-2051,Data Scientists,93490,100410,1700
+2024,22,Louisiana,Business Analytics,13-1111,Management Analysts,98680,106420,4420
+2024,22,Louisiana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57300,64300,5470
+2024,22,Louisiana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,89800,95520,2510
+2024,22,Louisiana,AI/ML Engineering,15-1221,Computer and Information Research Scientists,111880,111260,100
+2024,22,Louisiana,Computer Science/Data Engineering,15-1242,Database Administrators,86420,89230,240
+2024,22,Louisiana,AI/ML Engineering,15-1252,Software Developers,102290,119790,3870
+2024,22,Louisiana,Computer Science/Data Engineering,15-1252,Software Developers,102290,119790,3870
+2024,22,Louisiana,Statistics,15-2031,Operations Research Analysts,64240,70970,730
+2024,22,Louisiana,Statistics,15-2041,Statisticians,72550,78310,60
+2024,22,Louisiana,Data Science,15-2051,Data Scientists,70530,71740,1120
+2024,23,Maine,Business Analytics,13-1111,Management Analysts,80210,92730,2410
+2024,23,Maine,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,72690,74730,2030
+2024,23,Maine,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98660,104400,2600
+2024,23,Maine,Computer Science/Data Engineering,15-1242,Database Administrators,76980,82210,230
+2024,23,Maine,Computer Science/Data Engineering,15-1243,Database Architects,154790,134200,250
+2024,23,Maine,AI/ML Engineering,15-1252,Software Developers,113800,118110,2740
+2024,23,Maine,Computer Science/Data Engineering,15-1252,Software Developers,113800,118110,2740
+2024,23,Maine,Statistics,15-2031,Operations Research Analysts,90420,94740,360
+2024,23,Maine,Statistics,15-2041,Statisticians,66620,85590,60
+2024,23,Maine,Data Science,15-2051,Data Scientists,94350,101890,1040
+2024,24,Maryland,Business Analytics,13-1111,Management Analysts,121890,124430,21010
+2024,24,Maryland,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,73560,80360,12080
+2024,24,Maryland,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,103200,115010,15090
+2024,24,Maryland,AI/ML Engineering,15-1221,Computer and Information Research Scientists,141540,143220,2750
+2024,24,Maryland,Computer Science/Data Engineering,15-1242,Database Administrators,122110,124430,2640
+2024,24,Maryland,Computer Science/Data Engineering,15-1243,Database Architects,140710,143020,1420
+2024,24,Maryland,AI/ML Engineering,15-1252,Software Developers,137890,150800,31940
+2024,24,Maryland,Computer Science/Data Engineering,15-1252,Software Developers,137890,150800,31940
+2024,24,Maryland,Statistics,15-2031,Operations Research Analysts,100990,106230,4280
+2024,24,Maryland,Statistics,15-2041,Statisticians,128940,127740,3070
+2024,24,Maryland,Data Science,15-2051,Data Scientists,124340,135370,3400
+2024,25,Massachusetts,Business Analytics,13-1111,Management Analysts,131840,147330,30100
+2024,25,Massachusetts,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,93430,99910,37320
+2024,25,Massachusetts,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,121580,126190,16650
+2024,25,Massachusetts,AI/ML Engineering,15-1221,Computer and Information Research Scientists,166910,175700,1800
+2024,25,Massachusetts,Computer Science/Data Engineering,15-1242,Database Administrators,117420,112090,1940
+2024,25,Massachusetts,Computer Science/Data Engineering,15-1243,Database Architects,161160,161000,1720
+2024,25,Massachusetts,AI/ML Engineering,15-1252,Software Developers,150520,153650,54260
+2024,25,Massachusetts,Computer Science/Data Engineering,15-1252,Software Developers,150520,153650,54260
+2024,25,Massachusetts,Statistics,15-2031,Operations Research Analysts,90030,98830,4860
+2024,25,Massachusetts,Statistics,15-2041,Statisticians,99230,108850,1990
+2024,25,Massachusetts,Data Science,15-2051,Data Scientists,132250,139670,9990
+2024,26,Michigan,Business Analytics,13-1111,Management Analysts,90620,103930,14290
+2024,26,Michigan,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,68120,76170,23180
+2024,26,Michigan,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100240,102420,14990
+2024,26,Michigan,AI/ML Engineering,15-1221,Computer and Information Research Scientists,105960,114760,300
+2024,26,Michigan,Computer Science/Data Engineering,15-1242,Database Administrators,97880,97660,1190
+2024,26,Michigan,Computer Science/Data Engineering,15-1243,Database Architects,120810,117600,1150
+2024,26,Michigan,AI/ML Engineering,15-1252,Software Developers,107820,114890,41490
+2024,26,Michigan,Computer Science/Data Engineering,15-1252,Software Developers,107820,114890,41490
+2024,26,Michigan,Statistics,15-2031,Operations Research Analysts,84100,95200,1050
+2024,26,Michigan,Statistics,15-2041,Statisticians,96780,104340,590
+2024,26,Michigan,Data Science,15-2051,Data Scientists,99470,102030,6450
+2024,27,Minnesota,Business Analytics,13-1111,Management Analysts,95980,110810,21530
+2024,27,Minnesota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,81460,89940,24650
+2024,27,Minnesota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,106740,111350,10580
+2024,27,Minnesota,AI/ML Engineering,15-1221,Computer and Information Research Scientists,131770,135220,50
+2024,27,Minnesota,Computer Science/Data Engineering,15-1242,Database Administrators,97230,101010,970
+2024,27,Minnesota,Computer Science/Data Engineering,15-1243,Database Architects,130420,127730,910
+2024,27,Minnesota,AI/ML Engineering,15-1252,Software Developers,124540,121600,39580
+2024,27,Minnesota,Computer Science/Data Engineering,15-1252,Software Developers,124540,121600,39580
+2024,27,Minnesota,Statistics,15-2031,Operations Research Analysts,89240,97620,1300
+2024,27,Minnesota,Statistics,15-2041,Statisticians,80140,90810,1010
+2024,27,Minnesota,Data Science,15-2051,Data Scientists,117840,118110,3500
+2024,28,Mississippi,Business Analytics,13-1111,Management Analysts,70010,88590,3260
+2024,28,Mississippi,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57520,56680,2800
+2024,28,Mississippi,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82870,84670,2040
+2024,28,Mississippi,AI/ML Engineering,15-1221,Computer and Information Research Scientists,108560,111360,280
+2024,28,Mississippi,Computer Science/Data Engineering,15-1242,Database Administrators,86420,84830,230
+2024,28,Mississippi,Computer Science/Data Engineering,15-1243,Database Architects,90980,92400,110
+2024,28,Mississippi,AI/ML Engineering,15-1252,Software Developers,86460,87990,3200
+2024,28,Mississippi,Computer Science/Data Engineering,15-1252,Software Developers,86460,87990,3200
+2024,28,Mississippi,Statistics,15-2031,Operations Research Analysts,87550,86390,130
+2024,28,Mississippi,Statistics,15-2041,Statisticians,59980,65930,70
+2024,28,Mississippi,Data Science,15-2051,Data Scientists,69430,77830,270
+2024,29,Missouri,Business Analytics,13-1111,Management Analysts,95830,108950,11350
+2024,29,Missouri,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64280,73810,13310
+2024,29,Missouri,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92740,94680,7140
+2024,29,Missouri,AI/ML Engineering,15-1221,Computer and Information Research Scientists,109910,125930,380
+2024,29,Missouri,Computer Science/Data Engineering,15-1242,Database Administrators,87600,94990,1400
+2024,29,Missouri,Computer Science/Data Engineering,15-1243,Database Architects,108820,112730,1840
+2024,29,Missouri,AI/ML Engineering,15-1252,Software Developers,114550,114240,17060
+2024,29,Missouri,Computer Science/Data Engineering,15-1252,Software Developers,114550,114240,17060
+2024,29,Missouri,Statistics,15-2031,Operations Research Analysts,55640,66330,2010
+2024,29,Missouri,Statistics,15-2041,Statisticians,64460,76080,550
+2024,29,Missouri,Data Science,15-2051,Data Scientists,85570,95310,4350
+2024,30,Montana,Business Analytics,13-1111,Management Analysts,85760,87290,1580
+2024,30,Montana,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66840,72630,1490
+2024,30,Montana,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,89060,100840,860
+2024,30,Montana,Computer Science/Data Engineering,15-1242,Database Administrators,80960,83070,240
+2024,30,Montana,Computer Science/Data Engineering,15-1243,Database Architects,116250,124500,50
+2024,30,Montana,AI/ML Engineering,15-1252,Software Developers,100190,120950,2070
+2024,30,Montana,Computer Science/Data Engineering,15-1252,Software Developers,100190,120950,2070
+2024,30,Montana,Statistics,15-2031,Operations Research Analysts,71350,75230,160
+2024,30,Montana,Statistics,15-2041,Statisticians,79100,86570,50
+2024,30,Montana,Data Science,15-2051,Data Scientists,106860,111490,200
+2024,31,Nebraska,Business Analytics,13-1111,Management Analysts,82440,91750,2650
+2024,31,Nebraska,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,55630,63610,3890
+2024,31,Nebraska,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,92090,94930,2250
+2024,31,Nebraska,AI/ML Engineering,15-1221,Computer and Information Research Scientists,116600,117740,30
+2024,31,Nebraska,Computer Science/Data Engineering,15-1242,Database Administrators,92470,96080,540
+2024,31,Nebraska,Computer Science/Data Engineering,15-1243,Database Architects,132320,129750,590
+2024,31,Nebraska,AI/ML Engineering,15-1252,Software Developers,116420,116110,8940
+2024,31,Nebraska,Computer Science/Data Engineering,15-1252,Software Developers,116420,116110,8940
+2024,31,Nebraska,Statistics,15-2031,Operations Research Analysts,96990,96790,290
+2024,31,Nebraska,Statistics,15-2041,Statisticians,82770,86080,170
+2024,31,Nebraska,Data Science,15-2051,Data Scientists,96470,97720,1850
+2024,32,Nevada,Business Analytics,13-1111,Management Analysts,93320,106490,5360
+2024,32,Nevada,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62590,72790,5580
+2024,32,Nevada,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101810,100960,2500
+2024,32,Nevada,Computer Science/Data Engineering,15-1242,Database Administrators,86980,87960,470
+2024,32,Nevada,Computer Science/Data Engineering,15-1243,Database Architects,130360,124010,320
+2024,32,Nevada,AI/ML Engineering,15-1252,Software Developers,129030,137920,4640
+2024,32,Nevada,Computer Science/Data Engineering,15-1252,Software Developers,129030,137920,4640
+2024,32,Nevada,Statistics,15-2031,Operations Research Analysts,82120,93880,350
+2024,32,Nevada,Statistics,15-2041,Statisticians,71250,85630,60
+2024,32,Nevada,Data Science,15-2051,Data Scientists,93310,98820,1230
+2024,33,New Hampshire,Business Analytics,13-1111,Management Analysts,103810,117180,2810
+2024,33,New Hampshire,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67590,74520,4780
+2024,33,New Hampshire,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100700,109600,2390
+2024,33,New Hampshire,AI/ML Engineering,15-1221,Computer and Information Research Scientists,117730,138460,130
+2024,33,New Hampshire,Computer Science/Data Engineering,15-1242,Database Administrators,121820,109190,230
+2024,33,New Hampshire,AI/ML Engineering,15-1252,Software Developers,132420,139860,8010
+2024,33,New Hampshire,Computer Science/Data Engineering,15-1252,Software Developers,132420,139860,8010
+2024,33,New Hampshire,Statistics,15-2031,Operations Research Analysts,86380,92380,230
+2024,33,New Hampshire,Statistics,15-2041,Statisticians,127870,123280,50
+2024,33,New Hampshire,Data Science,15-2051,Data Scientists,98970,102230,870
+2024,34,New Jersey,Business Analytics,13-1111,Management Analysts,105100,119130,21490
+2024,34,New Jersey,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,85190,93780,22970
+2024,34,New Jersey,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,123640,124650,17290
+2024,34,New Jersey,AI/ML Engineering,15-1221,Computer and Information Research Scientists,146290,147070,1110
+2024,34,New Jersey,Computer Science/Data Engineering,15-1242,Database Administrators,128970,126670,2060
+2024,34,New Jersey,Computer Science/Data Engineering,15-1243,Database Architects,143900,144260,2530
+2024,34,New Jersey,AI/ML Engineering,15-1252,Software Developers,132400,140520,57120
+2024,34,New Jersey,Computer Science/Data Engineering,15-1252,Software Developers,132400,140520,57120
+2024,34,New Jersey,Statistics,15-2031,Operations Research Analysts,101220,111990,2630
+2024,34,New Jersey,Statistics,15-2041,Statisticians,99510,114700,550
+2024,34,New Jersey,Data Science,15-2051,Data Scientists,130370,131800,5860
+2024,35,New Mexico,Business Analytics,13-1111,Management Analysts,84870,90440,3440
+2024,35,New Mexico,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,60200,63880,1830
+2024,35,New Mexico,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94570,96720,2500
+2024,35,New Mexico,AI/ML Engineering,15-1221,Computer and Information Research Scientists,178120,178400,
+2024,35,New Mexico,Computer Science/Data Engineering,15-1242,Database Administrators,94850,94480,520
+2024,35,New Mexico,Computer Science/Data Engineering,15-1243,Database Architects,120120,117620,130
+2024,35,New Mexico,AI/ML Engineering,15-1252,Software Developers,120820,120080,4810
+2024,35,New Mexico,Computer Science/Data Engineering,15-1252,Software Developers,120820,120080,4810
+2024,35,New Mexico,Statistics,15-2031,Operations Research Analysts,77930,91340,500
+2024,35,New Mexico,Statistics,15-2041,Statisticians,86310,76930,360
+2024,35,New Mexico,Data Science,15-2051,Data Scientists,85040,86520,510
+2024,36,New York,Business Analytics,13-1111,Management Analysts,106930,124510,65390
+2024,36,New York,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,91840,99650,75100
+2024,36,New York,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,105610,115250,20950
+2024,36,New York,AI/ML Engineering,15-1221,Computer and Information Research Scientists,197390,201790,1320
+2024,36,New York,Computer Science/Data Engineering,15-1242,Database Administrators,106940,113070,3680
+2024,36,New York,Computer Science/Data Engineering,15-1243,Database Architects,128270,137840,4180
+2024,36,New York,AI/ML Engineering,15-1252,Software Developers,161260,159990,104130
+2024,36,New York,Computer Science/Data Engineering,15-1252,Software Developers,161260,159990,104130
+2024,36,New York,Statistics,15-2031,Operations Research Analysts,109440,117110,6020
+2024,36,New York,Statistics,15-2041,Statisticians,150240,147470,1490
+2024,36,New York,Data Science,15-2051,Data Scientists,125400,133450,20070
+2024,37,North Carolina,Business Analytics,13-1111,Management Analysts,98700,106830,21750
+2024,37,North Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77360,85760,30140
+2024,37,North Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,104940,112060,25350
+2024,37,North Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,124490,132560,790
+2024,37,North Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,108430,106140,1990
+2024,37,North Carolina,Computer Science/Data Engineering,15-1243,Database Architects,130560,129750,4060
+2024,37,North Carolina,AI/ML Engineering,15-1252,Software Developers,131000,131780,57590
+2024,37,North Carolina,Computer Science/Data Engineering,15-1252,Software Developers,131000,131780,57590
+2024,37,North Carolina,Statistics,15-2031,Operations Research Analysts,100630,98910,2520
+2024,37,North Carolina,Statistics,15-2041,Statisticians,122630,128280,1430
+2024,37,North Carolina,Data Science,15-2051,Data Scientists,115380,118020,10140
+2024,38,North Dakota,Business Analytics,13-1111,Management Analysts,73080,88880,1080
+2024,38,North Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,62230,66990,1500
+2024,38,North Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,96350,102340,180
+2024,38,North Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,76400,85950,90
+2024,38,North Dakota,Computer Science/Data Engineering,15-1243,Database Architects,116120,112830,50
+2024,38,North Dakota,AI/ML Engineering,15-1252,Software Developers,98550,103610,1510
+2024,38,North Dakota,Computer Science/Data Engineering,15-1252,Software Developers,98550,103610,1510
+2024,38,North Dakota,Statistics,15-2031,Operations Research Analysts,80080,81460,140
+2024,38,North Dakota,Statistics,15-2041,Statisticians,78800,81580,40
+2024,38,North Dakota,Data Science,15-2051,Data Scientists,96230,94130,320
+2024,39,Ohio,Business Analytics,13-1111,Management Analysts,81590,94320,26990
+2024,39,Ohio,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,67850,76460,25680
+2024,39,Ohio,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98990,102700,15490
+2024,39,Ohio,AI/ML Engineering,15-1221,Computer and Information Research Scientists,135640,130930,270
+2024,39,Ohio,Computer Science/Data Engineering,15-1242,Database Administrators,94020,96400,1770
+2024,39,Ohio,Computer Science/Data Engineering,15-1243,Database Architects,129840,133170,2230
+2024,39,Ohio,AI/ML Engineering,15-1252,Software Developers,107690,116330,44280
+2024,39,Ohio,Computer Science/Data Engineering,15-1252,Software Developers,107690,116330,44280
+2024,39,Ohio,Statistics,15-2031,Operations Research Analysts,104610,101160,2970
+2024,39,Ohio,Statistics,15-2041,Statisticians,84130,91090,360
+2024,39,Ohio,Data Science,15-2051,Data Scientists,98620,100260,5510
+2024,40,Oklahoma,Business Analytics,13-1111,Management Analysts,86940,95320,4630
+2024,40,Oklahoma,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59330,69770,7800
+2024,40,Oklahoma,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,100450,104880,3100
+2024,40,Oklahoma,AI/ML Engineering,15-1221,Computer and Information Research Scientists,92580,98010,590
+2024,40,Oklahoma,Computer Science/Data Engineering,15-1242,Database Administrators,76980,87430,660
+2024,40,Oklahoma,Computer Science/Data Engineering,15-1243,Database Architects,132360,133880,730
+2024,40,Oklahoma,AI/ML Engineering,15-1252,Software Developers,107420,112920,7150
+2024,40,Oklahoma,Computer Science/Data Engineering,15-1252,Software Developers,107420,112920,7150
+2024,40,Oklahoma,Statistics,15-2031,Operations Research Analysts,62510,63790,1510
+2024,40,Oklahoma,Statistics,15-2041,Statisticians,81180,94520,40
+2024,40,Oklahoma,Data Science,15-2051,Data Scientists,80380,89940,2160
+2024,41,Oregon,Business Analytics,13-1111,Management Analysts,100840,109090,11590
+2024,41,Oregon,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,82600,92370,12340
+2024,41,Oregon,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,111140,120860,5030
+2024,41,Oregon,AI/ML Engineering,15-1221,Computer and Information Research Scientists,180010,211010,660
+2024,41,Oregon,Computer Science/Data Engineering,15-1242,Database Administrators,102650,105050,930
+2024,41,Oregon,Computer Science/Data Engineering,15-1243,Database Architects,139660,147530,710
+2024,41,Oregon,AI/ML Engineering,15-1252,Software Developers,135260,146650,21100
+2024,41,Oregon,Computer Science/Data Engineering,15-1252,Software Developers,135260,146650,21100
+2024,41,Oregon,Statistics,15-2031,Operations Research Analysts,99250,101650,2590
+2024,41,Oregon,Statistics,15-2041,Statisticians,93620,94920,610
+2024,41,Oregon,Data Science,15-2051,Data Scientists,106100,124060,2650
+2024,42,Pennsylvania,Business Analytics,13-1111,Management Analysts,94050,99540,23450
+2024,42,Pennsylvania,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65190,74340,31240
+2024,42,Pennsylvania,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,97450,99590,15400
+2024,42,Pennsylvania,AI/ML Engineering,15-1221,Computer and Information Research Scientists,128960,128790,400
+2024,42,Pennsylvania,Computer Science/Data Engineering,15-1242,Database Administrators,107800,105100,5000
+2024,42,Pennsylvania,Computer Science/Data Engineering,15-1243,Database Architects,129040,130130,2240
+2024,42,Pennsylvania,AI/ML Engineering,15-1252,Software Developers,123740,122240,47350
+2024,42,Pennsylvania,Computer Science/Data Engineering,15-1252,Software Developers,123740,122240,47350
+2024,42,Pennsylvania,Statistics,15-2031,Operations Research Analysts,75760,85490,3030
+2024,42,Pennsylvania,Statistics,15-2041,Statisticians,83660,99020,2190
+2024,42,Pennsylvania,Data Science,15-2051,Data Scientists,100320,107450,10430
+2024,44,Rhode Island,Business Analytics,13-1111,Management Analysts,89130,102370,2980
+2024,44,Rhode Island,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,77630,80100,3540
+2024,44,Rhode Island,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,112980,120290,1560
+2024,44,Rhode Island,AI/ML Engineering,15-1221,Computer and Information Research Scientists,118870,124170,490
+2024,44,Rhode Island,Computer Science/Data Engineering,15-1242,Database Administrators,103810,104100,320
+2024,44,Rhode Island,Computer Science/Data Engineering,15-1243,Database Architects,136510,149350,190
+2024,44,Rhode Island,AI/ML Engineering,15-1252,Software Developers,128660,126810,6010
+2024,44,Rhode Island,Computer Science/Data Engineering,15-1252,Software Developers,128660,126810,6010
+2024,44,Rhode Island,Statistics,15-2031,Operations Research Analysts,86120,109570,270
+2024,44,Rhode Island,Statistics,15-2041,Statisticians,91680,91650,50
+2024,44,Rhode Island,Data Science,15-2051,Data Scientists,114390,119400,1190
+2024,45,South Carolina,Business Analytics,13-1111,Management Analysts,87050,104240,10600
+2024,45,South Carolina,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,66110,78210,9400
+2024,45,South Carolina,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,94740,98600,7290
+2024,45,South Carolina,AI/ML Engineering,15-1221,Computer and Information Research Scientists,120970,118120,440
+2024,45,South Carolina,Computer Science/Data Engineering,15-1242,Database Administrators,92670,99890,660
+2024,45,South Carolina,Computer Science/Data Engineering,15-1243,Database Architects,128440,128340,730
+2024,45,South Carolina,AI/ML Engineering,15-1252,Software Developers,108690,119610,12230
+2024,45,South Carolina,Computer Science/Data Engineering,15-1252,Software Developers,108690,119610,12230
+2024,45,South Carolina,Statistics,15-2031,Operations Research Analysts,74880,82120,1210
+2024,45,South Carolina,Statistics,15-2041,Statisticians,65850,70160,310
+2024,45,South Carolina,Data Science,15-2051,Data Scientists,90660,96970,2810
+2024,46,South Dakota,Business Analytics,13-1111,Management Analysts,79660,86410,3180
+2024,46,South Dakota,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,61720,69160,1460
+2024,46,South Dakota,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,95850,102040,1050
+2024,46,South Dakota,Computer Science/Data Engineering,15-1242,Database Administrators,85890,87610,150
+2024,46,South Dakota,Computer Science/Data Engineering,15-1243,Database Architects,127460,121220,60
+2024,46,South Dakota,AI/ML Engineering,15-1252,Software Developers,87770,93390,2190
+2024,46,South Dakota,Computer Science/Data Engineering,15-1252,Software Developers,87770,93390,2190
+2024,46,South Dakota,Data Science,15-2051,Data Scientists,92000,92460,270
+2024,47,Tennessee,Business Analytics,13-1111,Management Analysts,97410,102350,12750
+2024,47,Tennessee,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64720,73380,13350
+2024,47,Tennessee,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,82430,89960,9820
+2024,47,Tennessee,AI/ML Engineering,15-1221,Computer and Information Research Scientists,105680,103690,
+2024,47,Tennessee,Computer Science/Data Engineering,15-1242,Database Administrators,101640,100650,1440
+2024,47,Tennessee,Computer Science/Data Engineering,15-1243,Database Architects,128440,125840,680
+2024,47,Tennessee,AI/ML Engineering,15-1252,Software Developers,117340,117940,18750
+2024,47,Tennessee,Computer Science/Data Engineering,15-1252,Software Developers,117340,117940,18750
+2024,47,Tennessee,Statistics,15-2031,Operations Research Analysts,75370,83020,1240
+2024,47,Tennessee,Statistics,15-2041,Statisticians,88760,92460,800
+2024,47,Tennessee,Data Science,15-2051,Data Scientists,104700,114830,2550
+2024,48,Texas,Business Analytics,13-1111,Management Analysts,98650,107550,49950
+2024,48,Texas,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64900,75210,61200
+2024,48,Texas,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,104970,114350,48150
+2024,48,Texas,AI/ML Engineering,15-1221,Computer and Information Research Scientists,101990,115880,2800
+2024,48,Texas,Computer Science/Data Engineering,15-1242,Database Administrators,109990,109330,6110
+2024,48,Texas,Computer Science/Data Engineering,15-1243,Database Architects,133800,136930,6330
+2024,48,Texas,AI/ML Engineering,15-1252,Software Developers,130500,133280,151460
+2024,48,Texas,Computer Science/Data Engineering,15-1252,Software Developers,130500,133280,151460
+2024,48,Texas,Statistics,15-2031,Operations Research Analysts,96660,101100,12240
+2024,48,Texas,Statistics,15-2041,Statisticians,104380,110910,1210
+2024,48,Texas,Data Science,15-2051,Data Scientists,106540,114800,23420
+2024,49,Utah,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,64900,72230,13310
+2024,49,Utah,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,93330,96380,2810
+2024,49,Utah,AI/ML Engineering,15-1221,Computer and Information Research Scientists,94830,103600,870
+2024,49,Utah,Computer Science/Data Engineering,15-1242,Database Administrators,97890,105050,800
+2024,49,Utah,Computer Science/Data Engineering,15-1243,Database Architects,127770,134470,630
+2024,49,Utah,AI/ML Engineering,15-1252,Software Developers,127390,126650,29160
+2024,49,Utah,Computer Science/Data Engineering,15-1252,Software Developers,127390,126650,29160
+2024,49,Utah,Statistics,15-2031,Operations Research Analysts,82230,84840,1090
+2024,49,Utah,Statistics,15-2041,Statisticians,88060,96070,
+2024,49,Utah,Data Science,15-2051,Data Scientists,116420,119640,4830
+2024,50,Vermont,Business Analytics,13-1111,Management Analysts,115840,121870,970
+2024,50,Vermont,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,74340,76980,1000
+2024,50,Vermont,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98690,104440,590
+2024,50,Vermont,Computer Science/Data Engineering,15-1242,Database Administrators,102170,99980,120
+2024,50,Vermont,AI/ML Engineering,15-1252,Software Developers,130720,134320,
+2024,50,Vermont,Computer Science/Data Engineering,15-1252,Software Developers,130720,134320,
+2024,50,Vermont,Statistics,15-2031,Operations Research Analysts,108800,104040,120
+2024,50,Vermont,Statistics,15-2041,Statisticians,73320,79450,120
+2024,50,Vermont,Data Science,15-2051,Data Scientists,120670,119630,210
+2024,51,Virginia,Business Analytics,13-1111,Management Analysts,109650,123280,64710
+2024,51,Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,79840,91410,24870
+2024,51,Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,113500,120880,22730
+2024,51,Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,153340,159480,3150
+2024,51,Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,105000,113810,4210
+2024,51,Virginia,AI/ML Engineering,15-1252,Software Developers,134470,142230,83290
+2024,51,Virginia,Computer Science/Data Engineering,15-1252,Software Developers,134470,142230,83290
+2024,51,Virginia,Statistics,15-2031,Operations Research Analysts,123050,122680,6320
+2024,51,Virginia,Statistics,15-2041,Statisticians,101900,111760,800
+2024,51,Virginia,Data Science,15-2051,Data Scientists,126070,132230,6200
+2024,53,Washington,Business Analytics,13-1111,Management Analysts,118730,124240,24900
+2024,53,Washington,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,94300,105800,26030
+2024,53,Washington,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,127420,133710,18230
+2024,53,Washington,AI/ML Engineering,15-1221,Computer and Information Research Scientists,221990,204290,2590
+2024,53,Washington,Computer Science/Data Engineering,15-1242,Database Administrators,114700,118000,2190
+2024,53,Washington,Computer Science/Data Engineering,15-1243,Database Architects,144050,147540,2490
+2024,53,Washington,AI/ML Engineering,15-1252,Software Developers,166910,175600,91470
+2024,53,Washington,Computer Science/Data Engineering,15-1252,Software Developers,166910,175600,91470
+2024,53,Washington,Statistics,15-2031,Operations Research Analysts,96490,105680,2850
+2024,53,Washington,Statistics,15-2041,Statisticians,101890,112000,2520
+2024,53,Washington,Data Science,15-2051,Data Scientists,158760,162730,7930
+2024,54,West Virginia,Business Analytics,13-1111,Management Analysts,94060,97740,1560
+2024,54,West Virginia,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,50290,57730,1700
+2024,54,West Virginia,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,99050,99150,1300
+2024,54,West Virginia,AI/ML Engineering,15-1221,Computer and Information Research Scientists,170750,187000,50
+2024,54,West Virginia,Computer Science/Data Engineering,15-1242,Database Administrators,65380,73530,230
+2024,54,West Virginia,Computer Science/Data Engineering,15-1243,Database Architects,157590,132690,270
+2024,54,West Virginia,AI/ML Engineering,15-1252,Software Developers,103550,107330,2280
+2024,54,West Virginia,Computer Science/Data Engineering,15-1252,Software Developers,103550,107330,2280
+2024,54,West Virginia,Statistics,15-2031,Operations Research Analysts,63760,75510,220
+2024,54,West Virginia,Statistics,15-2041,Statisticians,80580,84450,90
+2024,54,West Virginia,Data Science,15-2051,Data Scientists,95760,102770,220
+2024,55,Wisconsin,Business Analytics,13-1111,Management Analysts,100310,110500,12430
+2024,55,Wisconsin,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,65000,72680,15810
+2024,55,Wisconsin,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,98790,99490,7710
+2024,55,Wisconsin,AI/ML Engineering,15-1221,Computer and Information Research Scientists,166690,171150,30
+2024,55,Wisconsin,Computer Science/Data Engineering,15-1242,Database Administrators,98920,104550,1380
+2024,55,Wisconsin,Computer Science/Data Engineering,15-1243,Database Architects,138930,140770,360
+2024,55,Wisconsin,AI/ML Engineering,15-1252,Software Developers,103360,114030,22170
+2024,55,Wisconsin,Computer Science/Data Engineering,15-1252,Software Developers,103360,114030,22170
+2024,55,Wisconsin,Statistics,15-2031,Operations Research Analysts,74970,78880,4080
+2024,55,Wisconsin,Statistics,15-2041,Statisticians,88910,96200,250
+2024,55,Wisconsin,Data Science,15-2051,Data Scientists,100020,105540,3640
+2024,56,Wyoming,Business Analytics,13-1111,Management Analysts,103820,127420,440
+2024,56,Wyoming,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,57040,61490,840
+2024,56,Wyoming,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,88790,95560,320
+2024,56,Wyoming,Computer Science/Data Engineering,15-1242,Database Administrators,69980,73300,100
+2024,56,Wyoming,Computer Science/Data Engineering,15-1243,Database Architects,62760,68880,130
+2024,56,Wyoming,AI/ML Engineering,15-1252,Software Developers,112590,121500,1020
+2024,56,Wyoming,Computer Science/Data Engineering,15-1252,Software Developers,112590,121500,1020
+2024,56,Wyoming,Data Science,15-2051,Data Scientists,95840,85480,
 2025,01,Alabama,Business Analytics,13-1111,Management Analysts,108040,116540,4900
 2025,01,Alabama,Business Analytics,13-1161,Market Research Analysts and Marketing Specialists,59530,68500,8390
 2025,01,Alabama,Computer Science/Data Engineering,15-1211,Computer Systems Analysts,101770,107430,6560
