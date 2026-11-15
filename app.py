@@ -19,7 +19,7 @@ st.set_page_config(
 # LOAD DATA
 # --------------------------------------------------
 
-@st.cache_data
+
 def load_data():
     state = pd.read_csv("dashboard_state.csv")
     occupation = pd.read_csv("dashboard_occupation.csv")
@@ -29,6 +29,10 @@ def load_data():
 
 
 state, occupation, time_series = load_data()
+
+occupation['YEAR'] = pd.to_numeric(
+    occupation['YEAR'], errors='coerce'
+)
 
 # --------------------------------------------------
 # DATA PREPARATION
